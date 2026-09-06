@@ -1,7 +1,87 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-06T02:14:05.412Z",
+  "updatedAt": "2026-09-06T08:18:43.831Z",
   "entries": {
+    "d46a8749a01d": {
+      "headline": "Bosch Home Appliances: The \"German Engineering\" Communication Strategy - MarkHub24",
+      "contentHash": "ea3c33f8c6b3eb1e",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T08:16:59.491Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "238fd5101c29": {
+      "headline": "[기업 이모저모] IR도 조직도…AI 시대로 탈바꿈하는 LG전자 - 연합인포맥스",
+      "contentHash": "7362532523dc35b7",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T08:16:50.802Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "641b0f8d3a85": {
+      "headline": "최고 권위 '대한민국과기인상', 8년 만에 수상자 2명으로 확대",
+      "contentHash": "709d0917ba06b81e",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T08:16:40.956Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "06809f36a72a": {
+      "headline": "이대서울·은평성모 등 16곳 상급종합병원 도전장",
+      "contentHash": "69046a2c05ad0d1f",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T08:16:39.377Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "eb79372ce261": {
+      "headline": "허깅페이스가 주목한 韓 '비드래프트'…글로벌 AI 무대서 기술력 입증",
+      "contentHash": "4b928a5ad7b361f9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T08:16:31.101Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2852a80dc9fe": {
+      "headline": "가을 하늘에 빠져들다",
+      "contentHash": "fedcfaaf5188c770",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T08:16:30.036Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "00518352b277": {
+      "headline": "용적률 1.2배 높이면 성산시영 분담금 1억 뚝",
+      "contentHash": "7e7979be5f0c518b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T08:16:29.040Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7a53ea9bfc49": {
+      "headline": "30년간 거래 없던 빌라 샀다고 … 취득세 8배 날벼락",
+      "contentHash": "f0c6972cc8e57d08",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T08:16:28.014Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "17cdf9074ab4": {
+      "headline": "[포토] 광주 도심 최대 복합개발 '챔피언스시티 1차' 인산인해",
+      "contentHash": "617d4fd401cd4f5c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T08:16:26.865Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "344481ee00fd": {
+      "headline": "\"AI 데이터센터에 모듈러 접목\" GS건설·LGU+ 표준모델 개발",
+      "contentHash": "2cd36a4c1893d8f9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T08:16:25.764Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
     "f58f37dcc685": {
       "headline": "What's The Typical Lifespan Of A Whirlpool Refrigerator? Here's What Owners Should Know - Mashed",
       "contentHash": "9354a8a97d53d647",
