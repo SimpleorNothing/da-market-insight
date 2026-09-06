@@ -1,20 +1,140 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-06T17:57:37.834Z",
+  "updatedAt": "2026-09-06T21:54:53.557Z",
   "entries": {
+    "5add24aa3b7d": {
+      "headline": "Dolly Parton Charity Movie Week Coming to Lennox 24 - WSYX",
+      "contentHash": "7016f28345d05986",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:54:22.121Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "86638d5fe62a": {
+      "headline": "BOSCH_HCIL Stock Price and Chart — NSE:BOSCH_HCIL - TradingView",
+      "contentHash": "9be06fd66dfa48c4",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:54:19.345Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "da46fdb7a19d": {
+      "headline": "Best Labor Day Deals on Large Appliances - consumerreports.org",
+      "contentHash": "faefe3ebffb63745",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:54:18.271Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "e1e7b542da5e": {
+      "headline": "What's The Difference Between Bosch And Gaggenau Appliances? - Yahoo",
+      "contentHash": "324c4a4025c4d75f",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:54:17.073Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "e02c8a27066e": {
+      "headline": "[속사정 취재] 중앙미디어그룹 어디로? 매각 둘러싼 홍라희 진짜 고민 - sundayjournalusa",
+      "contentHash": "748666fa9373bc1e",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:54:15.869Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "77d089afe937": {
+      "headline": "KUKA Earns Cybersecurity Certification for Robot Control Platform - Assembly Magazine",
+      "contentHash": "d0731e26d1586474",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:54:14.758Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ca842dc1f369": {
+      "headline": "New Business: Sub Zero Nitrogen Ice Cream seeks new owner; The Spoon in Newport must change its name - unionleader.com",
+      "contentHash": "c4bffa6ec489c9f8",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:54:04.403Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "f26d8adab636": {
+      "headline": "삼성전자 - 매일경제 마켓",
+      "contentHash": "435c24796631f74b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:54:03.260Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "5dda2a1b0826": {
+      "headline": "에어컨 펑펑 한국… 선풍기로 버티는 영국 - 조선일보",
+      "contentHash": "39c422143a4b46dd",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:54:00.723Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "41b4e97bcd19": {
+      "headline": "행운의 오리 슬롯 온라인 무료 - 업계 전문가들의 조언 - calgaryroughnecks.com",
+      "contentHash": "38374d38b4dbf670",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:53:58.174Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9a118fa0625a": {
+      "headline": "휴머노이드 로봇의 진짜 승부처, 무대가 아닌 공장",
+      "contentHash": "39ec66f42b198e50",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:53:52.781Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2617dae94a5f": {
+      "headline": "서울 인구 줄어드는데 집값은 왜 오를까",
+      "contentHash": "2693546f33e0cffd",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:53:51.635Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "b1a286b6f0f9": {
+      "headline": "자격증도, 검증도 없는 ‘대치동 간판’의 함정 ... ‘돈값’하는 수시 컨설팅은",
+      "contentHash": "f6c3698925012d13",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:53:50.490Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "814a923a7b7e": {
+      "headline": "“모르는 문자오면 매번 자식에 물었는데”…어르신 확 달라진 까닭은",
+      "contentHash": "7cc07cdbbf52656d",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:53:49.339Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1d42aa13f33e": {
+      "headline": "美 “호르무즈에 한국 자원 투입 기다린다”…트럼프, 동맹 압박",
+      "contentHash": "2796b52ba8198cc5",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:53:48.174Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "e6692ce36d81": {
+      "headline": "재고자산 같이 늘어도…삼전닉스 ‘매출 예고편’ 현대차는 ‘악성재고’",
+      "contentHash": "8ead3e7bb8548e38",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T21:53:47.106Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
     "6341834c30a1": {
       "headline": "Johnson Controls’ Innovation Center makes an impact - BizTimes - Milwaukee Business News",
       "contentHash": "e69e1652b3f738b7",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-06T17:56:53.671Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "da46fdb7a19d": {
-      "headline": "Best Labor Day Deals on Large Appliances - Consumer Reports",
-      "contentHash": "95216663ea9742e7",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-06T17:56:51.093Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -26,27 +146,11 @@
       "status": "skip",
       "reason": "model_skip"
     },
-    "e1e7b542da5e": {
-      "headline": "What's The Difference Between Bosch And Gaggenau Appliances? - shopping.yahoo.com",
-      "contentHash": "830ee1e5a695cd8a",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-06T17:56:48.698Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
     "b7ba20619f3d": {
       "headline": "Who Owns Bosch And Where Are The Appliances Made? - SlashGear",
       "contentHash": "520e80adc47e6f2b",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-06T17:56:47.566Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "e02c8a27066e": {
-      "headline": "[속사정 취재] 중앙미디어그룹 어디로? 매각 둘러싼 홍라희 진짜 고민 - sundayjournalusa.com",
-      "contentHash": "0cef09680c16a520",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-06T17:56:46.463Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -119,14 +223,6 @@
       "contentHash": "f487c4e43bc7e07d",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-06T14:44:04.754Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "41b4e97bcd19": {
-      "headline": "행운의 오리 슬롯 온라인 무료 - 업계 전문가들의 조언 - Calgary Roughnecks",
-      "contentHash": "37fa46156d8a61b9",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-06T14:43:58.543Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -895,14 +991,6 @@
       "contentHash": "48ccc51aeabf6af9",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-05T07:59:13.596Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "ca842dc1f369": {
-      "headline": "New Business: Sub Zero Nitrogen Ice Cream seeks new owner; The Spoon in Newport must change its name - UnionLeader.com",
-      "contentHash": "1abd38552ac9a082",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-05T02:17:46.274Z",
       "status": "skip",
       "reason": "model_skip"
     },
