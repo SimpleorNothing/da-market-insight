@@ -1,7 +1,159 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-05T21:51:59.327Z",
+  "updatedAt": "2026-09-06T02:14:05.412Z",
   "entries": {
+    "f58f37dcc685": {
+      "headline": "What's The Typical Lifespan Of A Whirlpool Refrigerator? Here's What Owners Should Know - Mashed",
+      "contentHash": "9354a8a97d53d647",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:13:27.051Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "99ae648e2ddd": {
+      "headline": "'덩치 큰 장난감'과 '가전의 미래' 사이…IFA 점령한 휴머노이드[현장에서] - 머니투데이 - 머니투데이",
+      "contentHash": "cd34b19c9c9cdefe",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:13:25.973Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1bc15428752a": {
+      "headline": "뉴욕 한복판 ‘삼성전자 노조’ 광고…“위대한 제품은 사람으로부터” - 한겨레",
+      "contentHash": "e48cd3d51c3f5025",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:13:17.469Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "51ac1b8cb7ac": {
+      "headline": "마작 판 : 을 통한 성공 전략 - Histoire pour tous",
+      "contentHash": "1d02a7f0b863a53b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:13:16.406Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "a96b76cd3355": {
+      "headline": "조선이공대, ‘미래내일일경험 오텍캐리어 CAREER JUMP 아카데미 1기’ 성료 - 무등일보",
+      "contentHash": "d22a837baa4a721d",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:13:12.377Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "51e17d4e76df": {
+      "headline": "韓 여행앱 1위 꿰찬 中 '트립닷컴', 성수기 격차 더 벌렸다",
+      "contentHash": "3d332174f10900e5",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:13:06.820Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9f9c93b43ad9": {
+      "headline": "“라면 먹더라도 국물 싹 비우지 마세요”…“반이라도 남겨라” 전문가의 이유 있는 경고",
+      "contentHash": "750c35430a2f9647",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:13:05.763Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "3f18b6d47e1b": {
+      "headline": "전자파 인체영향 연구 30년…갈등 풀어낼 '독립형 소통기구' 필요성 제기",
+      "contentHash": "e9bb8bd191067423",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:13:04.787Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "b2d49d8498e3": {
+      "headline": "'개그콘서트', 관객 참여 新 코너 '역주행' 예고",
+      "contentHash": "a6dd6897919dc833",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:13:03.730Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6efd52e7b8ac": {
+      "headline": "이란 “韓, 호르무즈 파병시 전쟁 참여 간주”…美 “파병 기다리고 있다” 압박",
+      "contentHash": "912d74adb516cd86",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:13:02.662Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "268bf9f2d994": {
+      "headline": "[취업 걱정 없는 명품학교] 〈507〉 서울매그넷고등학교",
+      "contentHash": "c5033cbfc90fceb7",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:13:01.546Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9851a7fd742e": {
+      "headline": "[취업걱정 없는 명품학교] 〈508〉 분당경영고등학교",
+      "contentHash": "30414516504f5040",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:13:00.513Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7bea0ad8b435": {
+      "headline": "“파티룸은 되는데 룸카페는 왜 안돼?”...룸카페 논란 뭐길래",
+      "contentHash": "9bf4bdaa24d24cfb",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:12:59.457Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "195c48036773": {
+      "headline": "롯데건설, 도곡우성 재건축 수주…올해 도시정비사업 4조 원 돌파",
+      "contentHash": "937f7eba2e1ff2c1",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:12:58.384Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "58c20da33c35": {
+      "headline": "[속보] 李대통령, ‘프랑스 국빈방문’ 출국…공군 1호기 이륙",
+      "contentHash": "abdead47f5136a42",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:12:57.304Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "f829bc998f37": {
+      "headline": "“아기 이리 와” 살해된 아내는 마지막까지 엄마였다…남편 신상비공개 결론",
+      "contentHash": "0a7c3b8376e91056",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:12:56.234Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "b429927c55bd": {
+      "headline": "年8.29% 적금 재미보더니…이번엔 아시안게임 특판 7.5% 적금 내놓은 은행",
+      "contentHash": "c9baad3a46df17a9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:12:55.132Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ef2e3ecce5cf": {
+      "headline": "집값 이대로 가면…4년뒤 관악·노원·중랑구 살아도 종부세 낸다",
+      "contentHash": "f666c6554daaa6a4",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:12:54.031Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7a6b11166c7d": {
+      "headline": "룰루레몬 65% 떨어졌지만…마이클 버리 “물타기 할 것”",
+      "contentHash": "d76145b1d2032808",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T02:12:52.962Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
     "6a0c778a5dd6": {
       "headline": "Why Johnson Controls International (JCI) Is Back In The Spotlight - Yahoo Finance",
       "contentHash": "f847bd1f236bd390",
@@ -55,14 +207,6 @@
       "contentHash": "0e69293ba3c76631",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-05T21:51:02.199Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "a96b76cd3355": {
-      "headline": "조선이공대, ‘미래내일일경험 오텍캐리어 CAREER JUMP 아카데미 1기’ 성료 - mdilbo.com",
-      "contentHash": "0ed252ecb3ec389f",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-05T21:50:48.072Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -335,14 +479,6 @@
       "contentHash": "7dfef4f15ca7e914",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-05T11:39:59.486Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "1bc15428752a": {
-      "headline": "삼성전자 노조 광고 뉴욕에 등장 “위대한 제품은 사람으로부터” - 한겨레",
-      "contentHash": "ef108df122ceb87b",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-05T11:39:55.867Z",
       "status": "skip",
       "reason": "model_skip"
     },
