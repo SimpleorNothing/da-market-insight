@@ -1,12 +1,100 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-06T14:45:43.185Z",
+  "updatedAt": "2026-09-06T17:57:37.834Z",
   "entries": {
-    "c8e73f3fb831": {
-      "headline": "Where was The Odyssey filmed? (with maps) - movie-locations.com",
-      "contentHash": "631071de564a762e",
+    "6341834c30a1": {
+      "headline": "Johnson Controls’ Innovation Center makes an impact - BizTimes - Milwaukee Business News",
+      "contentHash": "e69e1652b3f738b7",
       "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-06T14:44:23.184Z",
+      "processedAt": "2026-09-06T17:56:53.671Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "da46fdb7a19d": {
+      "headline": "Best Labor Day Deals on Large Appliances - Consumer Reports",
+      "contentHash": "95216663ea9742e7",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T17:56:51.093Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "b8783913a808": {
+      "headline": "12 Best Labor Day Appliance Deals: 43% Off Top-Tested Fridges, Dishwashers & Dryers - Good Housekeeping",
+      "contentHash": "0d8533ef3011f162",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T17:56:49.963Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "e1e7b542da5e": {
+      "headline": "What's The Difference Between Bosch And Gaggenau Appliances? - shopping.yahoo.com",
+      "contentHash": "830ee1e5a695cd8a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T17:56:48.698Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "b7ba20619f3d": {
+      "headline": "Who Owns Bosch And Where Are The Appliances Made? - SlashGear",
+      "contentHash": "520e80adc47e6f2b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T17:56:47.566Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "e02c8a27066e": {
+      "headline": "[속사정 취재] 중앙미디어그룹 어디로? 매각 둘러싼 홍라희 진짜 고민 - sundayjournalusa.com",
+      "contentHash": "0cef09680c16a520",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T17:56:46.463Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "02c75c9d46b0": {
+      "headline": "KUKA 글로벌 경영진, 지능형 조립 제조 기술 교류를 위해 센트론 방문 - 지디넷코리아",
+      "contentHash": "fce5b82243597e86",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T17:56:45.393Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2756aeede7d4": {
+      "headline": "KUKA Global Executives Visit Centron for Technical Exchange on Intelligent Assembly Manufacturing | Corporate - EQS News",
+      "contentHash": "ae5c34a939acf482",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T17:56:41.448Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "fd6f18f711e9": {
+      "headline": "Whirlpool Stock Price Forecast. Should You Buy WHR? - StockInvest.us",
+      "contentHash": "785293b5e598b603",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T17:56:27.499Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "c8e73f3fb831": {
+      "headline": "Where was The Odyssey filmed? (with maps) - The Worldwide Guide To Movie Locations",
+      "contentHash": "9e27c1e3925d3958",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T17:56:26.350Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "84494295b93b": {
+      "headline": "LG전자 ‘로봇 관절’ 빅테크 공급 임박 - 경향신문",
+      "contentHash": "bb2a5bdebaaa17d9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T17:56:23.741Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1bc15428752a": {
+      "headline": "뉴욕 한복판 ‘삼성전자 노조’ 광고…“위대한 제품은 사람으로부터” - 한겨레",
+      "contentHash": "e48cd3d51c3f5025",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-06T17:56:22.643Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -31,14 +119,6 @@
       "contentHash": "f487c4e43bc7e07d",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-06T14:44:04.754Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "1bc15428752a": {
-      "headline": "뉴욕 한복판 ‘삼성전자 노조’ 광고…“위대한 제품은 사람으로부터” - 한겨레신문",
-      "contentHash": "1266c148fe340ec2",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-06T14:44:01.012Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -362,35 +442,11 @@
       "status": "skip",
       "reason": "model_skip"
     },
-    "da46fdb7a19d": {
-      "headline": "Best Labor Day Deals on Large Appliances - consumerreports.org",
-      "contentHash": "faefe3ebffb63745",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-05T21:51:06.569Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "b8783913a808": {
-      "headline": "12 Best Labor Day Appliance Deals: 43% Off Top-Tested Fridges, Dishwashers & Dryers - goodhousekeeping.com",
-      "contentHash": "7e4d2f6cc485ef40",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-05T21:51:05.613Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
     "4a908567967d": {
       "headline": "KUKA Becomes First to Achieve Security Level 2 Certification for Robotics Industry - Automation.com",
       "contentHash": "25a6cb232946565c",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-05T21:51:04.561Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "2756aeede7d4": {
-      "headline": "KUKA Global Executives Visit Centron for Technical Exchange on Intelligent Assembly Manufacturing | Corporate - eqs-news.com",
-      "contentHash": "0e69293ba3c76631",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-05T21:51:02.199Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -1482,14 +1538,6 @@
       "status": "skip",
       "reason": "model_skip"
     },
-    "e1e7b542da5e": {
-      "headline": "What's The Difference Between Bosch And Gaggenau Appliances? - Yahoo",
-      "contentHash": "324c4a4025c4d75f",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-03T15:36:10.634Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
     "08fedec3affc": {
       "headline": "텔라 바이오, COO/CFO 퇴임과 함께 연간 운영비 1700만 달러 감축 - 매일경제 마켓",
       "contentHash": "a19cb6663e4dac45",
@@ -1503,14 +1551,6 @@
       "contentHash": "f614550244382600",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-03T15:36:07.158Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "e02c8a27066e": {
-      "headline": "[속사정 취재] 중앙미디어그룹 어디로? 매각 둘러싼 홍라희 진짜 고민 - sundayjournalusa",
-      "contentHash": "748666fa9373bc1e",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-03T15:36:05.876Z",
       "status": "skip",
       "reason": "model_skip"
     },
