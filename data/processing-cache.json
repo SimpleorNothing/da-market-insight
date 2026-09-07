@@ -1,7 +1,135 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-06T21:54:53.557Z",
+  "updatedAt": "2026-09-07T02:11:45.534Z",
   "entries": {
+    "8f9c9b36b493": {
+      "headline": "Midea Group Co., Ltd. Proposes Interim Cash Dividend for the Six Months Ended 30 June 2026 - marketscreener.com",
+      "contentHash": "5bff20b320b0adef",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:11:00.697Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6ed9065632b0": {
+      "headline": "The 4 Best Side-By-Side Refrigerators of 2026 - rtings.com",
+      "contentHash": "8672450db52ad0a6",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:59.435Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "42ef5062f858": {
+      "headline": "LG Electronics Discusses 'Robot Joints' Actuator Orders with Big Tech - 조선일보",
+      "contentHash": "21f1603fa14f9b58",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:49.033Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "42c3cd031e65": {
+      "headline": "WTF - world's first whirlpool gondola developed..... - Snow Industry News",
+      "contentHash": "50ee094a75a9faa5",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:47.851Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9a70f5a3de4b": {
+      "headline": "Customers Keep Praising The Reliability Of This Whirlpool-Owned Appliance Brand - Mashed",
+      "contentHash": "07b56907a7060b9a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:46.755Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "cf3c1b1d3464": {
+      "headline": "[특징주] LG전자, 로봇 액추에이터 수주 기대감에 10% 급등 - 메트로신문",
+      "contentHash": "a43e4ef7d17bef9e",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:42.755Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9e493b4e142e": {
+      "headline": "로봇 부품 수주 기대감…LG전자, 9%대 '불기둥' - v.daum.net",
+      "contentHash": "bf928071533432da",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:38.476Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "c92ca459022a": {
+      "headline": "[특징주] LG전자, 로봇 사업 확대 기대감…두자릿수↑ - 에너지경제신문",
+      "contentHash": "c6ef5f4fb0544054",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:37.181Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "41b4e97bcd19": {
+      "headline": "행운의 오리 슬롯 온라인 무료 - 업계 전문가들의 조언 - Calgary Roughnecks",
+      "contentHash": "37fa46156d8a61b9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:34.475Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "06d0d6100edf": {
+      "headline": "여성 군 간부에 “같이 놀자” 발언한 병사…전역 5일 늦어지자 소송까지",
+      "contentHash": "da13b26668efa77b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:28.874Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "4a6588874354": {
+      "headline": "사장님 모시는 인터넷은행…가계대출 막히자 사업자대출로",
+      "contentHash": "0911faf166b1c27a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:27.709Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "a990ab825bd1": {
+      "headline": "“그래서 얼마 내란 건가요?”…종부세 재손질에 집주인도 세무사도 ‘혼란’",
+      "contentHash": "e8030facaad5b029",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:26.438Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "d5c4b62ce5d0": {
+      "headline": "DB그룹 오너家 김병은, DB손보 부사장 승진…핵심 경영기획 맡는다",
+      "contentHash": "e3535ca4ae852c71",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:25.320Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "231872c0609e": {
+      "headline": "1540억→857억…‘900㎜ 물폭탄’ 거제·통영 피해액 중앙합동조사서 대폭 축소",
+      "contentHash": "ead0b30a32d0d093",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:23.864Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2d47803a7caa": {
+      "headline": "“계약 전 무조건 확인하세요”…보증기관 3사, 전세보증금 떼먹은 임대인 정보 공유",
+      "contentHash": "e023b4711070d1b2",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:22.734Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9d5b4ceb6dc7": {
+      "headline": "Korea eyes $1 tn exports as chip boom fuels record",
+      "contentHash": "41003398b0e77a6b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T02:10:21.625Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
     "5add24aa3b7d": {
       "headline": "Dolly Parton Charity Movie Week Coming to Lennox 24 - WSYX",
       "contentHash": "7016f28345d05986",
@@ -71,14 +199,6 @@
       "contentHash": "39c422143a4b46dd",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-06T21:54:00.723Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "41b4e97bcd19": {
-      "headline": "행운의 오리 슬롯 온라인 무료 - 업계 전문가들의 조언 - calgaryroughnecks.com",
-      "contentHash": "38374d38b4dbf670",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-06T21:53:58.174Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -631,14 +751,6 @@
       "contentHash": "7033ea9a9003f348",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-05T17:51:48.338Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "8f9c9b36b493": {
-      "headline": "Midea Group Co., Ltd. Proposes Interim Cash Dividend for the First Half of 2026 - marketscreener.com",
-      "contentHash": "3e973a655008d932",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-05T17:51:47.283Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -1215,14 +1327,6 @@
       "contentHash": "d8e32de2babd3635",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-04T18:46:43.960Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "6ed9065632b0": {
-      "headline": "The 4 Best Side-By-Side Refrigerators of 2026 - RTINGS.com",
-      "contentHash": "a56feb7916181eff",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-04T18:46:42.652Z",
       "status": "skip",
       "reason": "model_skip"
     },
