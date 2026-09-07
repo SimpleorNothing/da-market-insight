@@ -1,7 +1,127 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-07T16:59:40.922Z",
+  "updatedAt": "2026-09-07T22:27:37.627Z",
   "entries": {
+    "6e2ea8402e9b": {
+      "headline": "Trump in Whirlpool of Contradictory Statistics; New Figure for Iran's Casualties Each Time - ABNA English",
+      "contentHash": "c876fb444837d0f6",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:59.335Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6ed9065632b0": {
+      "headline": "The 4 Best Side-By-Side Refrigerators of 2026 - RTINGS.com",
+      "contentHash": "a56feb7916181eff",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:58.171Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9d90ca15dbf5": {
+      "headline": "5 Best Outdoor Refrigerators of 2026, Lab-Tested and Reviewed - consumerreports.org",
+      "contentHash": "4e3f159a9ec5d828",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:57.065Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "5f2e697f84b6": {
+      "headline": "DDP, LG전자와 협력…\"110인치 스크린 '디지털 캔버스'로\" - 뉴스1",
+      "contentHash": "3d8dbfb0a9ade51e",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:42.595Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "21808b31b5e1": {
+      "headline": "삼성전자 등 삼성그룹 19개사 하반기 공채 시작...이재용, 청년 채용 약속 '재조명' - 녹색경제신문",
+      "contentHash": "c9b96a035d0bb908",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:39.876Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "78e786e359dc": {
+      "headline": "'K-히트펌프' 유럽은 기회의 땅…경동나비엔, HVAC 변신 가속 - v.daum.net",
+      "contentHash": "ebb80b382ac5a75c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:36.964Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "492aabac769e": {
+      "headline": "BMW, 연내 '7시리즈 LCI·신형 X5' 등판…벤츠 S클래스에 '맞불'",
+      "contentHash": "275f69174fac4f92",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:29.754Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1ecd4ded75ec": {
+      "headline": "'250만 팔로워' 이집트 유명 방송인에 사형 선고… “마약 밀매 혐의”",
+      "contentHash": "a3006d3a5db014d8",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:28.620Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "71015bc6c6a1": {
+      "headline": "“이번달도 월급이 통장을 스치운다”…금리 1%P 오르면 연체율 무려",
+      "contentHash": "95c42559924b2f24",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:27.486Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "8e21b4754780": {
+      "headline": "‘우익 극단주의’가 민주당 찍어눌렀다…독일 선거에서 일어난 일",
+      "contentHash": "5aff49356d5715c7",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:26.420Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "3000517b329c": {
+      "headline": "“사실상 우리에게 전쟁 선포하는 셈”…독일에 발끈하고 있는 러시아",
+      "contentHash": "0e414e5bffd597ed",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:25.226Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "5797c8c9c096": {
+      "headline": "이 없으면 잇몸, D램 없으면 낸드로…‘상식 깬 메모리’ 내놓은 키옥시아",
+      "contentHash": "1171e1c6d3e3cde1",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:24.129Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "669665e7bf25": {
+      "headline": "식욕만 억제하는 줄 알았는데…노화도 늦출 수 있다는 ‘위고비’ 효과",
+      "contentHash": "541318e6d7fe5a08",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:22.954Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ef491fa12ff0": {
+      "headline": "노란봉투법, 사용자 확대에 맞춰 쟁의행위 기준도 정비해야 [이광선의 노란봉투법리포트]",
+      "contentHash": "05c03d378ca0761c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:21.847Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7012755ade73": {
+      "headline": "매경이 전하는 세상의 지식 (매-세-지, 9월 8일)",
+      "contentHash": "82bbd517741ff92b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T22:26:20.663Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
     "2e4bdc6de673": {
       "headline": "Whirlpool upgraded to buy with strong capital m... - Pluang",
       "contentHash": "5c72500d4b6beab3",
@@ -295,14 +415,6 @@
       "contentHash": "5bff20b320b0adef",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-07T02:11:00.697Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "6ed9065632b0": {
-      "headline": "The 4 Best Side-By-Side Refrigerators of 2026 - rtings.com",
-      "contentHash": "8672450db52ad0a6",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-07T02:10:59.435Z",
       "status": "skip",
       "reason": "model_skip"
     },
