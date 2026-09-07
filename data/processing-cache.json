@@ -1,7 +1,175 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-07T02:11:45.534Z",
+  "updatedAt": "2026-09-07T08:49:12.895Z",
   "entries": {
+    "a9a946aca487": {
+      "headline": "ELLE HOME Launches in Germany: Star Glory to Showcase Designer Home Appliances at IFA 2026 - Basic Tutorials",
+      "contentHash": "d7e4791e04b7552a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:47.728Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "42c3cd031e65": {
+      "headline": "WTF - world's first whirlpool gondola developed..... - snowindustrynews.com",
+      "contentHash": "e514dbd52aaebcc3",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:46.516Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "54a41e3648cb": {
+      "headline": "삼성, 8일부터 하반기 공채…삼성전자 등 19개 관계사 참여 - 스트레이트뉴스",
+      "contentHash": "75a8fcd5a7d25df3",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:45.356Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1fdc45f3a184": {
+      "headline": "한양이엔지, 삼성전자 평택 P5 클린룸 배관 1480억 수주 - 디일렉",
+      "contentHash": "a7bd8ad687f992dd",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:42.576Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "8736f1873e9f": {
+      "headline": "삼성전자 제품이 아티스트의 상상력과 만났을 때… ‘디자인 마이애미 서울 2026’ 전시 하이라이트 - Samsung Global Newsroom",
+      "contentHash": "96024f08f442c455",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:40.021Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6c32f3dceec7": {
+      "headline": "(기자의 눈) 소비자는 히트펌프를 선택할까 - electimes.com",
+      "contentHash": "6c8c10088db53baf",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:39.016Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "c072626954c9": {
+      "headline": "[특징주] LG전자, 로봇 부품 수주 기대감에 6%대 상승(종합) - 연합뉴스",
+      "contentHash": "029f0dbdf7375cf4",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:37.873Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "561a311d65e1": {
+      "headline": "[뉴스줌인] K-시큐리티 살릴 보안 AI…'성능' 입증이 관건",
+      "contentHash": "0c7ef68ddbb47f5e",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:29.079Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "22b2920aef37": {
+      "headline": "“휴대폰 주문했는데 이어폰을 보내?'…알리익스프레스, 불량 셀러 강력 제재",
+      "contentHash": "7a0e4bdd82505898",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:27.988Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7c304297fc87": {
+      "headline": "“달은 미국꺼”… 트럼프, 멈추지 않는 영토 욕심 '우주까지 확장'",
+      "contentHash": "ed00bf0db040ec9b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:26.920Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "f19d3e411b57": {
+      "headline": "[단독] 강남언니, 시술정보 포함 22만명 고객 개인정보 유출…경찰 수사 의뢰 접수",
+      "contentHash": "9608309618831475",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:25.838Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9cbccbf76dc7": {
+      "headline": "핀테크도 망분리 빗장 푼다…AI 혁신 '물꼬'",
+      "contentHash": "ce9b25382d63c2fd",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:24.754Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "82f7656a33b7": {
+      "headline": "거래소 폐쇄로 잃어버린 비트코인…12년 만에 '60억 잭팟'",
+      "contentHash": "c5beb7d206cabf74",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:23.615Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "395ef189c97c": {
+      "headline": "[기고] 다음세대의 길을 밝히는 예산안",
+      "contentHash": "c72e861acb83a73b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:22.426Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9660e3228634": {
+      "headline": "[포토에세이] 어느새 가을",
+      "contentHash": "b9a4094dff0ca061",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:21.296Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2099532608ca": {
+      "headline": "[GS칼텍스배 프로기전] 지킬 곳을 몰랐다",
+      "contentHash": "40fe62861eb04cd9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:20.065Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2886f1b92588": {
+      "headline": "오늘의 운세 2026년 9월 8일 火(음력 7월 27일)",
+      "contentHash": "9faafbd3e9616701",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:18.929Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "29dd8a778e0e": {
+      "headline": "\"말 한 마리가 내 삶도, 회사도 성장시켜\"",
+      "contentHash": "7ca374268a067319",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:17.799Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "59e6dfdb2b3d": {
+      "headline": "서교림 vs 김민솔 '메이저 2승' 내가 먼저",
+      "contentHash": "d4ece7e06bf28a4e",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:16.645Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "f7565785b115": {
+      "headline": "남자 아마추어 최강 가린다 '스타 등용문' 허정구배 개막",
+      "contentHash": "2b86295e12b75dfc",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:48:15.535Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "52c52f74193a": {
+      "headline": "자유 슬롯과 같은 카지노 : 실제 경험자들의 조언 - Histoire pour tous",
+      "contentHash": "bc4b8c4d8e796f7b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T08:47:46.185Z",
+      "status": "prefilter",
+      "reason": "카지노|무료 스핀|casino|sportsbook"
+    },
     "8f9c9b36b493": {
       "headline": "Midea Group Co., Ltd. Proposes Interim Cash Dividend for the Six Months Ended 30 June 2026 - marketscreener.com",
       "contentHash": "5bff20b320b0adef",
@@ -23,14 +191,6 @@
       "contentHash": "21f1603fa14f9b58",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-07T02:10:49.033Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "42c3cd031e65": {
-      "headline": "WTF - world's first whirlpool gondola developed..... - Snow Industry News",
-      "contentHash": "50ee094a75a9faa5",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-07T02:10:47.851Z",
       "status": "skip",
       "reason": "model_skip"
     },
