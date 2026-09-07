@@ -1,20 +1,148 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-07T08:49:12.895Z",
+  "updatedAt": "2026-09-07T16:59:40.922Z",
   "entries": {
+    "2e4bdc6de673": {
+      "headline": "Whirlpool upgraded to buy with strong capital m... - Pluang",
+      "contentHash": "5c72500d4b6beab3",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:47.378Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "42c3cd031e65": {
+      "headline": "WTF - world's first whirlpool gondola developed..... - Snow Industry News",
+      "contentHash": "50ee094a75a9faa5",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:44.760Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "d28935dd3ccb": {
+      "headline": "Whirlpool: Debt Reduction Creates A Long-Term Value Opportunity (Rating Upgrade) - Seeking Alpha",
+      "contentHash": "687895d1b8a43bb8",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:42.128Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6c32f3dceec7": {
+      "headline": "(기자의 눈) 소비자는 히트펌프를 선택할까 - 전기신문",
+      "contentHash": "a4d72490983bc06b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:39.464Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "da520438946e": {
+      "headline": "삼성전자, CMA CGM에 1억8600만달러 청구…팬데믹 운임분쟁 ‘초대형 소송’ - 해사신문",
+      "contentHash": "a5887f37f8504cfa",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:38.284Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "42c10507b871": {
+      "headline": "15초를 90분으로…100% AI 제작 영화 '스틸레이' 공개",
+      "contentHash": "2392e2698373e4cc",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:29.505Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "3b8bb2efc2e2": {
+      "headline": "젠슨 황, 아스트라 지목 “AGI 시대 왔다”… AI주 랠리 다시 시작하나",
+      "contentHash": "ad169defd094fb96",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:28.245Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7908233b078b": {
+      "headline": "30조원 투입해 美 데이터센터 전력 공급… '대미투자 1호' 국회 보고",
+      "contentHash": "bd132611350a698c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:25.582Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "4c6091182cc2": {
+      "headline": "비행기서 좌석에 '미라'처럼 묶인 승객…왜?",
+      "contentHash": "0ae56d564cf0a661",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:24.446Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "cdeb0a879d54": {
+      "headline": "“北선수단 일본 땅 밟나”…日정부, 대북제재 예외 적용 검토",
+      "contentHash": "fb7d4b66573b29e4",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:23.299Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "011c06001efa": {
+      "headline": "“1억달러 들던 DNA 분석, 이젠 200달러”…시장 80% 장악한 DNA 대장주",
+      "contentHash": "8175b65b19423259",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:22.112Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "56487a4f36be": {
+      "headline": "우리금융 외국인 지분율, 사상 첫 50% 돌파…꾸준히 사들이는 이유는",
+      "contentHash": "7b780d174571ea84",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:20.993Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9437c2c22a47": {
+      "headline": "“일본여행 취소해야 하나”…관측 사상 최대, 도쿄 인근 725㎜ 물폭탄",
+      "contentHash": "ba93747d3841ac08",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:19.748Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "76682001b606": {
+      "headline": "“얇은 겉옷 필수” 쌀쌀한 아침 뒤 한낮 더위…일교차 15도",
+      "contentHash": "35163110cde8323f",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:18.619Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "0e6ae75211bd": {
+      "headline": "“먹는 살에도 꿈틀”…가다랑어 53마리 열어보니 96%서 기생충",
+      "contentHash": "f48175b0acd13312",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:17.466Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "89e63c544c21": {
+      "headline": "[속보] 北국방상, 한미일 ‘프리덤에지’ 훈련에 반발…“대응조치 취할것”",
+      "contentHash": "776104c47c304a2c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:58:16.234Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "d38ce875ac81": {
+      "headline": "사람 4명이 관 운반, 리무진 타고 작별하는 강아지…中 반려동물 '초호화 장례식'",
+      "contentHash": "e001fb12ce3a1459",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-07T16:57:48.578Z",
+      "status": "prefilter",
+      "reason": "부고|별세|장례|obituary|funeral"
+    },
     "a9a946aca487": {
       "headline": "ELLE HOME Launches in Germany: Star Glory to Showcase Designer Home Appliances at IFA 2026 - Basic Tutorials",
       "contentHash": "d7e4791e04b7552a",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-07T08:48:47.728Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "42c3cd031e65": {
-      "headline": "WTF - world's first whirlpool gondola developed..... - snowindustrynews.com",
-      "contentHash": "e514dbd52aaebcc3",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-07T08:48:46.516Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -39,14 +167,6 @@
       "contentHash": "96024f08f442c455",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-07T08:48:40.021Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "6c32f3dceec7": {
-      "headline": "(기자의 눈) 소비자는 히트펌프를 선택할까 - electimes.com",
-      "contentHash": "6c8c10088db53baf",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-07T08:48:39.016Z",
       "status": "skip",
       "reason": "model_skip"
     },
