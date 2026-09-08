@@ -1,7 +1,191 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-08T08:30:08.975Z",
+  "updatedAt": "2026-09-08T15:46:57.864Z",
   "entries": {
+    "20d698716094": {
+      "headline": "KUKA Robotics achieves IEC cybersecurity certification - Modern Materials Handling",
+      "contentHash": "61dbb6130a5a6136",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:36.524Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "c78f8d1291e5": {
+      "headline": "11 Brands You Didn't Know Were Owned By Whirlpool - House Digest",
+      "contentHash": "71c814629c4a3f09",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:35.365Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2e4bdc6de673": {
+      "headline": "Whirlpool upgraded to buy with strong capital m... - pluang.com",
+      "contentHash": "07d0e693fc59c4d1",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:34.212Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "0524cc0bde80": {
+      "headline": "Whirlpool: Gradual Debt Reduction Creates A Long-Term Value Opportunity (NYSE:WHR) - Seeking Alpha",
+      "contentHash": "e870a03a16247ed2",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:30.110Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "42c3cd031e65": {
+      "headline": "WTF - world's first whirlpool gondola developed..... - snowindustrynews.com",
+      "contentHash": "e514dbd52aaebcc3",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:28.944Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "61ef0ba74bd9": {
+      "headline": "Review of the Sub-Zero action figure from the Mortal Kombat by Jazwares - YouTube",
+      "contentHash": "4c0468ac6794604f",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:27.759Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9a70f5a3de4b": {
+      "headline": "Customers Keep Praising The Reliability Of This Whirlpool-Owned Appliance Brand - mashed.com",
+      "contentHash": "51c33ddaa8a9abfb",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:26.543Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "bd39e8c819fa": {
+      "headline": "HighTower Advisors LLC Sells 95,300 Shares of Whirlpool Corporation $WHR - MarketBeat",
+      "contentHash": "f87d1dad85c86506",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:25.350Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9f1994d033f3": {
+      "headline": "미스트랄, 삼성전자 주도로 4.7조원 시리즈D 투자 유치…‘주권형 오픈 웨이트 AI’ 본격 확대 - aitimes.kr",
+      "contentHash": "4f793642e0d49ed0",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:24.179Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "3f98efd82b01": {
+      "headline": "삼성전자·ASML ‘D램 동맹’… 日에 첨단 패키징 연구거점 구축 - 서울신문",
+      "contentHash": "496b3eed2f1b4e5a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:23.035Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2ee0fb66633d": {
+      "headline": "삼성전자, 日 요코하마에 첨단 패키징 R&D 거점 - 아이뉴스24",
+      "contentHash": "e26baab1797c1ff7",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:20.084Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "fe0c58dbc09d": {
+      "headline": "삼성전자, 佛 AI기업 '미스트랄'에 수천억원 투자 - 한국경제",
+      "contentHash": "b5fa66668bceb427",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:18.913Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "41b4e97bcd19": {
+      "headline": "행운의 오리 슬롯 온라인 무료 - 업계 전문가들의 조언 - calgaryroughnecks.com",
+      "contentHash": "38374d38b4dbf670",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:16.232Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "fe27740bece9": {
+      "headline": "[뉴스줌인] AI 개발만으론 산업 못 만든다…SW시장 함께 키워야",
+      "contentHash": "5c25bd0be7cfa8cc",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:10.339Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ad5933d3fac0": {
+      "headline": "“힌두교 온다, 여성은 빠져라”…'성차별 에펠탑', 결국 파업",
+      "contentHash": "587b8e9833f33b46",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:09.132Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "5cd9af0b177a": {
+      "headline": "“빚투 폭탄 또 터지나”…韓 이어 中·日까지 '레버리지 경고등'",
+      "contentHash": "d760c2d9f625c60c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:07.912Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "74c41b9e53cc": {
+      "headline": "국가AI전략위 2기, 기술·의제 등 글로벌 AI 핵심 공급망 박차",
+      "contentHash": "e7d17687601983cb",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:06.660Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "312894f5855e": {
+      "headline": "어제까지 달리기하던 中 로봇, 전투복 입는다… “군사 훈련장으로 이전”",
+      "contentHash": "aa39b3b08608f96e",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:05.476Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2392405f493d": {
+      "headline": "법원 “지자체, 폐암 산재 학교 급식 조리사에 1000만원씩 배상해야”",
+      "contentHash": "b7e07fd7940284f1",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:04.215Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "0d4d2b83418f": {
+      "headline": "부천 베르네천서 물고기 집단 폐사…행정 당국 조사 나서",
+      "contentHash": "6be9e49d8204c561",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:02.937Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6aa4a8957674": {
+      "headline": "“내년에도 수혜주는 삼전닉스”…장밋빛 전망 ‘또’ 제시되는 이유",
+      "contentHash": "3be4d20815db4610",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:01.721Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "4a703ef89bed": {
+      "headline": "[부음] 최운열 한국공인회계사회 회장 부인상",
+      "contentHash": "72d80b40cdc969ed",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:46:00.507Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "b9cb79efeb4f": {
+      "headline": "부산신항 컨테이너 충돌해 ‘알킬벤젠’ 600ℓ 유출…해경 방제 중",
+      "contentHash": "ce53dba52a8535af",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T15:45:59.473Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
     "7ab77dd226e3": {
       "headline": "LG AI Home: 5 Smart Upgrades Powering a Bold Home - Global Brands Magazine",
       "contentHash": "510716afb1c9b56b",
@@ -402,22 +586,6 @@
       "status": "skip",
       "reason": "model_skip"
     },
-    "2e4bdc6de673": {
-      "headline": "Whirlpool upgraded to buy with strong capital m... - Pluang",
-      "contentHash": "5c72500d4b6beab3",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-07T16:58:47.378Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "42c3cd031e65": {
-      "headline": "WTF - world's first whirlpool gondola developed..... - Snow Industry News",
-      "contentHash": "50ee094a75a9faa5",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-07T16:58:44.760Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
     "d28935dd3ccb": {
       "headline": "Whirlpool: Debt Reduction Creates A Long-Term Value Opportunity (Rating Upgrade) - Seeking Alpha",
       "contentHash": "687895d1b8a43bb8",
@@ -698,22 +866,6 @@
       "status": "skip",
       "reason": "model_skip"
     },
-    "42ef5062f858": {
-      "headline": "LG Electronics Discusses 'Robot Joints' Actuator Orders with Big Tech - 조선일보",
-      "contentHash": "21f1603fa14f9b58",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-07T02:10:49.033Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "9a70f5a3de4b": {
-      "headline": "Customers Keep Praising The Reliability Of This Whirlpool-Owned Appliance Brand - Mashed",
-      "contentHash": "07b56907a7060b9a",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-07T02:10:46.755Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
     "cf3c1b1d3464": {
       "headline": "[특징주] LG전자, 로봇 액추에이터 수주 기대감에 10% 급등 - 메트로신문",
       "contentHash": "a43e4ef7d17bef9e",
@@ -735,14 +887,6 @@
       "contentHash": "c6ef5f4fb0544054",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-07T02:10:37.181Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "41b4e97bcd19": {
-      "headline": "행운의 오리 슬롯 온라인 무료 - 업계 전문가들의 조언 - Calgary Roughnecks",
-      "contentHash": "37fa46156d8a61b9",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-07T02:10:34.475Z",
       "status": "skip",
       "reason": "model_skip"
     },
