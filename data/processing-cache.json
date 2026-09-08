@@ -1,12 +1,116 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-08T15:46:57.864Z",
+  "updatedAt": "2026-09-08T19:13:33.436Z",
   "entries": {
-    "20d698716094": {
-      "headline": "KUKA Robotics achieves IEC cybersecurity certification - Modern Materials Handling",
-      "contentHash": "61dbb6130a5a6136",
+    "b545eeabc947": {
+      "headline": "Beat the Heat with Bratcher Heating and Air, and Lennox - WJBC AM 1230",
+      "contentHash": "53eb7b5333a40a53",
       "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-08T15:46:36.524Z",
+      "processedAt": "2026-09-08T19:12:34.353Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ac92c686fb31": {
+      "headline": "Lennox the Grey Prevails in Old Dominion Derby - BloodHorse",
+      "contentHash": "32075dad7bfa071e",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T19:12:33.105Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "c5923472a144": {
+      "headline": "김혜은, ‘재벌X형사2’ 특별출연… 유승호 비밀 마주한 미디어그룹 수장 된다 - 천지일보",
+      "contentHash": "d8e9a56b18d0ac30",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T19:12:28.709Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "be8a2d9e25d6": {
+      "headline": "바오성 미디어 그룹 홀딩스, 임시 주총 무기한 연기..사유 미공개 - 매일경제 마켓",
+      "contentHash": "071e6b72b9063cf6",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T19:12:27.614Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "8715325a8e96": {
+      "headline": "SLL, 유럽 최대 미디어그룹 미디어완 손잡았다 - JTBC",
+      "contentHash": "829bd7b586577919",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T19:12:23.422Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6560ffead71a": {
+      "headline": "Case Studies: Inside Whirlpool’s Road to Zero with Advanced Automation | JR Automation - automate.org",
+      "contentHash": "bad72452e7df0080",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T19:12:17.613Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "59ac8183e3af": {
+      "headline": "LG’s domestic AI chip project transforms Korea’s on-device strategy into a commercial reality - Global Sources",
+      "contentHash": "5cea1cc197f2242c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T19:12:16.450Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "85e537214d1a": {
+      "headline": "LG makes the smart home smarter - Daily Tribune",
+      "contentHash": "66a417b53cd1e39a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T19:12:13.726Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "42c3cd031e65": {
+      "headline": "WTF - world's first whirlpool gondola developed..... - Snow Industry News",
+      "contentHash": "50ee094a75a9faa5",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T19:12:12.585Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9a70f5a3de4b": {
+      "headline": "Customers Keep Praising The Reliability Of This Whirlpool-Owned Appliance Brand - Mashed",
+      "contentHash": "07b56907a7060b9a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T19:12:11.449Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "60be6ff9cf79": {
+      "headline": "삼성전자, 佛 AI기업 '미스트랄'에 수천억원 투자 - 한국경제",
+      "contentHash": "b5fa66668bceb427",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T19:12:10.307Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "26fbddefed4c": {
+      "headline": "억대 성과급인데 월 70만원 때문에?…삼성전자 직원들 주거비 부정수급 의혹 - 주간조선",
+      "contentHash": "20ce77505a215b5c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T19:12:07.724Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "79510a2c4c62": {
+      "headline": "삼성전자, 미스트랄 AI와 전략적 파트너십 체결 - Samsung Global Newsroom",
+      "contentHash": "545a5a9f96f33e0a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T19:12:06.435Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "5f58ac54feb6": {
+      "headline": "9월 미중회담이 전세계 ‘돈의 흐름’ 바꾼다 … AI·전력·자원 주목",
+      "contentHash": "3138dd1f79979817",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T19:11:59.159Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -34,27 +138,11 @@
       "status": "skip",
       "reason": "model_skip"
     },
-    "42c3cd031e65": {
-      "headline": "WTF - world's first whirlpool gondola developed..... - snowindustrynews.com",
-      "contentHash": "e514dbd52aaebcc3",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-08T15:46:28.944Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
     "61ef0ba74bd9": {
       "headline": "Review of the Sub-Zero action figure from the Mortal Kombat by Jazwares - YouTube",
       "contentHash": "4c0468ac6794604f",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-08T15:46:27.759Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "9a70f5a3de4b": {
-      "headline": "Customers Keep Praising The Reliability Of This Whirlpool-Owned Appliance Brand - mashed.com",
-      "contentHash": "51c33ddaa8a9abfb",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-08T15:46:26.543Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -367,14 +455,6 @@
       "contentHash": "95216663ea9742e7",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-08T02:22:25.869Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "c5923472a144": {
-      "headline": "김혜은, ‘재벌X형사2’ 특별출연… 유승호 비밀 마주한 미디어그룹 수장 된다 - newscj.com",
-      "contentHash": "d60e72039d2df588",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-08T02:22:24.688Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -1127,14 +1207,6 @@
       "contentHash": "e48cd3d51c3f5025",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-06T17:56:22.643Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "6560ffead71a": {
-      "headline": "Case Studies: Inside Whirlpool’s Road to Zero with Advanced Automation | JR Automation - A3 Association for Advancing Automation",
-      "contentHash": "0b1ae7a9b095d753",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-06T14:44:20.523Z",
       "status": "skip",
       "reason": "model_skip"
     },
