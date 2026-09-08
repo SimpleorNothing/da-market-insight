@@ -1,7 +1,183 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-08T02:23:04.546Z",
+  "updatedAt": "2026-09-08T08:30:08.975Z",
   "entries": {
+    "7ab77dd226e3": {
+      "headline": "LG AI Home: 5 Smart Upgrades Powering a Bold Home - Global Brands Magazine",
+      "contentHash": "510716afb1c9b56b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:48.579Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "033dc1de2c4d": {
+      "headline": "LG’s domestic AI chip project transforms Korea’s on-device strategy into a commercial reality - Global Sources",
+      "contentHash": "5cea1cc197f2242c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:47.431Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "b9bf2981e667": {
+      "headline": "Lotte Hi-Mart is launching a large-scale discount exhibition centered on Samsung Electronics' home a.. - 매일경제",
+      "contentHash": "907b4d14f7295275",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:43.397Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1f04ac32b613": {
+      "headline": "UNMASKED VS. MASKED SUB-ZERO | Mortal Kombat 1: \"Sub-Zero\" Ranked Online Gameplay (Sonya Kameo) - youtu.be",
+      "contentHash": "ca145adb3a2b211a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:40.632Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "e96f71e89759": {
+      "headline": "삼성전자, ASML과 ’12인치 마스크’ 개발…2028년 D램에 차세대 노광 도입 - MIT 테크놀로지 리뷰",
+      "contentHash": "59347f3b43d2cf1b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:39.582Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "25bc2e32a762": {
+      "headline": "삼성전자-ASML 차세대 D램 '동맹'…세계 첫 12인치 포토 마스크 개발 - 머니투데이 - 머니투데이",
+      "contentHash": "a48c11a5a79b789a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:38.422Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7f2ddfc0b2ff": {
+      "headline": "삼성전자, 2028년 D램 제조에 업계 최초 차세대 ASML EUV 도입 추진 - news.einfomax.co.kr",
+      "contentHash": "4cc6080ee61c7d8d",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:37.196Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "42a4be89ad52": {
+      "headline": "강청희 건보공단 이사장 “과잉 의료비 줄이고 재정 효율화”",
+      "contentHash": "f4a14b882445dd8f",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:26.641Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "4ed0ebdddf9a": {
+      "headline": "[치지직, 판을 바꾸다] 〈3〉 수만 관객 버추얼 공연 오프라인서 연다…버추얼 아티스트 '데뷔 무대'로 진화",
+      "contentHash": "552cc08a018493d1",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:25.587Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "da8a945794ab": {
+      "headline": "“AI산업 기반인데 내년 SW사업 예산은 뒷걸음질”…SW 홀대론 커져",
+      "contentHash": "5d0aa63242d08959",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:24.531Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "26f1b93c5eab": {
+      "headline": "원숭이 서식지에 'AI 간식 시스템' 설치하니…“얼굴 인식하고 간식 꺼내 먹어”",
+      "contentHash": "d7e2de386e3da07a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:23.464Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "dbcd4b3d39a5": {
+      "headline": "“내가 먹은 참치회는 괜찮겠지”…배 갈랐더니 기생충 1600마리가?",
+      "contentHash": "f8f19e8d1e8966c9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:22.315Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "324417039abd": {
+      "headline": "한드림넷 품은 대교CNS, 네트워크 보안 새 성장축으로",
+      "contentHash": "445466e671aaba7a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:21.161Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "38bfcdcf4505": {
+      "headline": "AI 금융서비스 10월 가동…수협, 은행·상호금융 공동 통제체계 구축",
+      "contentHash": "d1455855774bdf46",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:20.054Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6d0c47499098": {
+      "headline": "허금주 전 교보생명 전무… 유니세프 한국위 사무총장에",
+      "contentHash": "3e5b6231ec754a8d",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:18.887Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9735713a44cf": {
+      "headline": "현대차 '미래 모빌리티 학교' 프랑스에 도입",
+      "contentHash": "1fe2c1c2c82c7c01",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:17.807Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "79278658c798": {
+      "headline": "'죽고싶다' 소리없는 SOS, 데이터엔 다 보이죠",
+      "contentHash": "75470e5b6f470d60",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:16.773Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7ed5dd809f83": {
+      "headline": "[인사] 신한투자증권 / 뉴스1",
+      "contentHash": "0d7e5753e745e662",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:15.663Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "c3e6ecd8b6a4": {
+      "headline": "2차 '국민성장펀드' 30일부터 판매…6천억 중 절반은 서민에 우선 공급",
+      "contentHash": "457dac17719a3038",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:14.435Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "04bcfff26cd4": {
+      "headline": "빈집 쌓이는 지방서도 … 수도권 뺨치는 '전세 쟁탈전'",
+      "contentHash": "ccd8492889c8fbaa",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:13.305Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "383b16d0fd40": {
+      "headline": "6억 성과급 받는데, 주거비 챙기려 서류까지 위조?…삼전 직원들 부정수급 논란",
+      "contentHash": "91ed56941cec9444",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:29:12.277Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "850b8193d963": {
+      "headline": "[부음] 윤경자씨 별세",
+      "contentHash": "249ecf66d9896520",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T08:28:47.357Z",
+      "status": "prefilter",
+      "reason": "부고|별세|장례|obituary|funeral"
+    },
     "da46fdb7a19d": {
       "headline": "Best Labor Day Deals on Large Appliances - Consumer Reports",
       "contentHash": "95216663ea9742e7",
@@ -23,14 +199,6 @@
       "contentHash": "b3b8fff21d61772d",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-08T02:22:20.662Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "1f04ac32b613": {
-      "headline": "UNMASKED VS. MASKED SUB-ZERO | Mortal Kombat 1: \"Sub-Zero\" Ranked Online Gameplay (Sonya Kameo) - YouTube",
-      "contentHash": "0af3399a7f52e1c9",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-08T02:22:06.735Z",
       "status": "skip",
       "reason": "model_skip"
     },
