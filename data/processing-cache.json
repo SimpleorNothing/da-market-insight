@@ -1,7 +1,151 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-08T19:13:33.436Z",
+  "updatedAt": "2026-09-08T22:15:46.856Z",
   "entries": {
+    "b7ba20619f3d": {
+      "headline": "Who Owns Bosch And Where Are The Appliances Made? - slashgear.com",
+      "contentHash": "99b4356b1519bf41",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:15:01.654Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "c78f8d1291e5": {
+      "headline": "11 Brands You Didn't Know Were Owned By Whirlpool - housedigest.com",
+      "contentHash": "1dd7a81f3d421dff",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:54.532Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6560ffead71a": {
+      "headline": "Case Studies: Inside Whirlpool’s Road to Zero with Advanced Automation | JR Automation - A3 Association for Advancing Automation",
+      "contentHash": "0b1ae7a9b095d753",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:53.557Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "a1ae43bedc2e": {
+      "headline": "Biz Buzz - telegraphherald.com",
+      "contentHash": "ccfef2d994f60eb9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:51.062Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "d28935dd3ccb": {
+      "headline": "Whirlpool: Gradual Debt Reduction Creates A Long-Term Value Opportunity (NYSE:WHR) - Seeking Alpha",
+      "contentHash": "e870a03a16247ed2",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:49.989Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6380ce4cc102": {
+      "headline": "롯데하이마트, '안심케어 세일'…가전청소부터 입주청소까지 할인 - 전자신문",
+      "contentHash": "9bab007c4b0b0d6c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:48.767Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "85bdb45895d8": {
+      "headline": "\"가전 관리까지 책임집니다\"…롯데하이마트, '안심케어 세일' - 머니투데이 - 머니투데이",
+      "contentHash": "02728fed71b94eed",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:47.679Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "41b4e97bcd19": {
+      "headline": "행운의 오리 슬롯 온라인 무료 - 업계 전문가들의 조언 - Calgary Roughnecks",
+      "contentHash": "37fa46156d8a61b9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:45.121Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "8b2396f24965": {
+      "headline": "“샤워 5분이면 충분하다는데”…들어가서 40분간 안나온다면?",
+      "contentHash": "444dad018e9ef701",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:39.321Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "43944c25cc0c": {
+      "headline": "재산분할 최대 4조…스마일게이트 권혁빈 이혼소송 오늘 결론",
+      "contentHash": "668207e85bab5f5d",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:38.153Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "a9b5c509be9a": {
+      "headline": "“7만전자 때 샀으니 대출 필요없죠”…2030 막힐 때 5060은 집 샀다",
+      "contentHash": "592a65fff9c3d3ea",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:37.035Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "f9e4a01eb94d": {
+      "headline": "국가장학금 받으며 공부한 학생, 첫 월급 더 많았다",
+      "contentHash": "cac1b5e68e6d6ab3",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:36.053Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "b8a79f1ef9e7": {
+      "headline": "일반 상품보다 금리 2% 비싸…청년 월세 보증 ‘유명무실’",
+      "contentHash": "f89b6ecfe9ae4770",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:35.023Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "54e94370b7cb": {
+      "headline": "“룸살롱서만 3000억”…법인카드 유흥업소 결제액 보니",
+      "contentHash": "db17752331cb4487",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:33.839Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "0391b915300a": {
+      "headline": "“오를 줄 알고 신용으로 물 탔는데”…변수투성이 증시, 빚투만 급증했다",
+      "contentHash": "54782c574e184381",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:32.804Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "5d405eb17027": {
+      "headline": "팔린 사업은 돌아오지 않는다 [이창훈의 경쟁법인사이트]",
+      "contentHash": "a895107d77c325dd",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:31.717Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7e48b10502ae": {
+      "headline": "매경이 전하는 세상의 지식 (매-세-지, 9월 9일)",
+      "contentHash": "689fec3e093917a5",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:30.430Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "0aba3fa66a90": {
+      "headline": "“45일이면 흙으로”… 호주서 첫 '버섯 관' 장례 치러졌다",
+      "contentHash": "fbf2e0a14e8063c1",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-08T22:14:07.399Z",
+      "status": "prefilter",
+      "reason": "부고|별세|장례|obituary|funeral"
+    },
     "b545eeabc947": {
       "headline": "Beat the Heat with Bratcher Heating and Air, and Lennox - WJBC AM 1230",
       "contentHash": "53eb7b5333a40a53",
@@ -39,14 +183,6 @@
       "contentHash": "829bd7b586577919",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-08T19:12:23.422Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "6560ffead71a": {
-      "headline": "Case Studies: Inside Whirlpool’s Road to Zero with Advanced Automation | JR Automation - automate.org",
-      "contentHash": "bad72452e7df0080",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-08T19:12:17.613Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -114,14 +250,6 @@
       "status": "skip",
       "reason": "model_skip"
     },
-    "c78f8d1291e5": {
-      "headline": "11 Brands You Didn't Know Were Owned By Whirlpool - House Digest",
-      "contentHash": "71c814629c4a3f09",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-08T15:46:35.365Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
     "2e4bdc6de673": {
       "headline": "Whirlpool upgraded to buy with strong capital m... - pluang.com",
       "contentHash": "07d0e693fc59c4d1",
@@ -183,14 +311,6 @@
       "contentHash": "b5fa66668bceb427",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-08T15:46:18.913Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "41b4e97bcd19": {
-      "headline": "행운의 오리 슬롯 온라인 무료 - 업계 전문가들의 조언 - calgaryroughnecks.com",
-      "contentHash": "38374d38b4dbf670",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-08T15:46:16.232Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -663,14 +783,6 @@
       "contentHash": "82bbd517741ff92b",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-07T22:26:20.663Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "d28935dd3ccb": {
-      "headline": "Whirlpool: Debt Reduction Creates A Long-Term Value Opportunity (Rating Upgrade) - Seeking Alpha",
-      "contentHash": "687895d1b8a43bb8",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-07T16:58:42.128Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -1151,14 +1263,6 @@
       "contentHash": "0d8533ef3011f162",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-06T17:56:49.963Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "b7ba20619f3d": {
-      "headline": "Who Owns Bosch And Where Are The Appliances Made? - SlashGear",
-      "contentHash": "520e80adc47e6f2b",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-06T17:56:47.566Z",
       "status": "skip",
       "reason": "model_skip"
     },
