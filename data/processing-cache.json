@@ -1,20 +1,140 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-09T15:42:42.586Z",
+  "updatedAt": "2026-09-09T19:01:42.822Z",
   "entries": {
+    "806b89fb0540": {
+      "headline": "Kauffeld, Nielsen Named Trane Student-Athletes of the Month for September - Belmont Bruins",
+      "contentHash": "44311406f2aff40d",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:01:03.129Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1a10e6a918da": {
+      "headline": "Aditya Birla Group launches Ultravolt with Rs 1,800 crore bet, debuts as India’s No. 2 wires player by cap - The Economic Times",
+      "contentHash": "35c2714dcbdf5566",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:52.874Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9a89b90f2da0": {
+      "headline": "Kumar Mangalam Birla sees room to build a ‘new large challenger’ in India’s Rs 90,000-crore wires and cabl - The Economic Times",
+      "contentHash": "8d386cd852d38484",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:51.693Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1628eac5ea0c": {
+      "headline": "The Manufacturers Life Insurance Company Invests $1.72 Million in Whirlpool Corporation $WHR - MarketBeat",
+      "contentHash": "a7348ce7726ea1ec",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:50.294Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7e8d7b089b72": {
+      "headline": "Nykredit A S Makes New Investment in Whirlpool Corporation $WHR - MarketBeat",
+      "contentHash": "03656af932980269",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:49.050Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "75e8152d43d7": {
+      "headline": "LG Electronics India Schedules Analyst and Investor Meetings on September 15 and 21 - Sahi",
+      "contentHash": "924e059074e15160",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:47.945Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "11bac09b519a": {
+      "headline": "We Found The 119 Best Labor Day Sales That Are Still Live - Forbes",
+      "contentHash": "02998bc59a4e7e98",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:45.158Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "a4a08ad913d8": {
+      "headline": "LG Electronics USA Introduces LG MAGNIT Gen 2 Micro LED Display - GlobeNewswire",
+      "contentHash": "2a326d44efe2aa07",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:43.620Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "848a3e09af41": {
+      "headline": "Xiaomi, XPeng, and Volkswagen Unveil at IFA: The Integrated People-Vehicle-Home Ecosystem Battle Begins – Blurring Boundaries Between Automobiles and Home Appliances - 36 Kr",
+      "contentHash": "6b874c9aa532b9d3",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:40.937Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ef85534b5415": {
+      "headline": "Whirlpool options flow shows bearish conviction as stock falls to 52-week lows - Investing.com",
+      "contentHash": "931740803d110f2f",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:37.991Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "dddcfcbcade7": {
+      "headline": "GE Appliances named one of Fast Company’s Best Workplaces for Innovators - The Lane Report",
+      "contentHash": "36c53af84aaafec1",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:36.858Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "fd900dbb5898": {
+      "headline": "이재용, 홍라희 삼성전자 주식 1.9조원에 매입 - 서울신문",
+      "contentHash": "92f05adf62036dd3",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:35.676Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "abe324993101": {
+      "headline": "이재용 회장, 모친 삼성전자 주식 718만주 1.9조원에 매수 - JTBC",
+      "contentHash": "e287be962202841d",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:34.348Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "798dc89e3980": {
+      "headline": "이재용, 모친 홍라희 보유 삼성전자 주식 1.9조어치 매수 - 동아일보",
+      "contentHash": "27efddbc66e202b9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:33.160Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ff180d189b78": {
+      "headline": "이재용 회장, 홍라희 삼성전자 지분 매수 - 중앙일보",
+      "contentHash": "e5d29dcd934dff5a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:32.042Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ff4c728ea493": {
+      "headline": "'메타 넘는다' 삼성전자, 디스플레이 품은 AI 글라스 개발 - 디일렉",
+      "contentHash": "344e4d52d635ce9d",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T19:00:30.871Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
     "1bd7294d93b4": {
       "headline": "Huahao Industrial Safety: Delivering Custom Winter Work Wear Solutions for Global Cold-Weather Operations - Issuewire",
       "contentHash": "874404f7c1dee4b8",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-09T15:42:21.840Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "848a3e09af41": {
-      "headline": "Xiaomi, XPeng, and Volkswagen Unveil at IFA: The Integrated People-Vehicle-Home Ecosystem Battle Begins – Blurring Boundaries Between Automobiles and Home Appliances - 36Kr",
-      "contentHash": "6c792034ea00ba18",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-09T15:42:20.667Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -31,14 +151,6 @@
       "contentHash": "7da16147989db783",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-09T15:42:16.332Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "abe324993101": {
-      "headline": "이재용 회장, 모친 삼성전자 주식 718만주 1.9조원에 매수 - news.jtbc.co.kr",
-      "contentHash": "6748209139a7bb2c",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-09T15:42:15.044Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -71,14 +183,6 @@
       "contentHash": "e7abf38674b6892b",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-09T15:42:10.359Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "ff4c728ea493": {
-      "headline": "'메타 넘는다' 삼성전자, 디스플레이 품은 AI 글라스 개발 - thelec.kr",
-      "contentHash": "66d2655ba2b7a10b",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-09T15:42:09.110Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -239,14 +343,6 @@
       "contentHash": "71c814629c4a3f09",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-09T08:31:52.706Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "75e8152d43d7": {
-      "headline": "LG Electronics India Schedules Analyst and Investor Meetings on September 15 and 21 - sahi.com",
-      "contentHash": "fb5750a6d7af29d0",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-09T08:31:49.699Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -3135,14 +3231,6 @@
       "contentHash": "bb7c84b725a0fae9",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-03T19:01:51.858Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "7e8d7b089b72": {
-      "headline": "Nykredit A S Makes New Investment in Whirlpool Corporation $WHR - marketbeat.com",
-      "contentHash": "4e2655894ab8293a",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-03T19:01:33.201Z",
       "status": "skip",
       "reason": "model_skip"
     },
