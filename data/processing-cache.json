@@ -1,7 +1,167 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-09T02:26:27.404Z",
+  "updatedAt": "2026-09-09T08:32:39.143Z",
   "entries": {
+    "b7ba20619f3d": {
+      "headline": "Who Owns Bosch And Where Are The Appliances Made? - SlashGear",
+      "contentHash": "520e80adc47e6f2b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:32:01.724Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ad6c101825d2": {
+      "headline": "KUKA 글로벌 경영진, 지능형 조립 제조 기술 교류를 위해 센트론 방문 - 코리아이글뉴스",
+      "contentHash": "b8c9a3af10cf7960",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:32:00.555Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6f23bf9cbbc5": {
+      "headline": "아주미디어그룹·이기연오페라연구소 맞손…성악·문화예술 콘텐츠 활성화 - 아주경제",
+      "contentHash": "e1e06e2537492a06",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:57.936Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "c78f8d1291e5": {
+      "headline": "11 Brands You Didn't Know Were Owned By Whirlpool - House Digest",
+      "contentHash": "71c814629c4a3f09",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:52.706Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "75e8152d43d7": {
+      "headline": "LG Electronics India Schedules Analyst and Investor Meetings on September 15 and 21 - sahi.com",
+      "contentHash": "fb5750a6d7af29d0",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:49.699Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "bab641f4aa77": {
+      "headline": "Prime Day Is Over, But 62 of Our Favorite Deals Are Still Available - WIRED",
+      "contentHash": "765f7c77527651d4",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:48.607Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "074a558a5f03": {
+      "headline": "Kenstar Expands Small Home Appliances With New Air Fryers - SMEStreet",
+      "contentHash": "7e3bc9bd88502b5d",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:45.660Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1f04ac32b613": {
+      "headline": "UNMASKED VS. MASKED SUB-ZERO | Mortal Kombat 1: \"Sub-Zero\" Ranked Online Gameplay (Sonya Kameo) - YouTube",
+      "contentHash": "0af3399a7f52e1c9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:44.582Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "848a3e09af41": {
+      "headline": "Xiaomi, XPeng, and Volkswagen Unveil at IFA: The Integrated People-Vehicle-Home Ecosystem Battle Begins – Blurring Boundaries Between Automobiles and Home Appliances - 36 Kr",
+      "contentHash": "6b874c9aa532b9d3",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:43.457Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "55b25865866d": {
+      "headline": "“배움의 공간을 바꾸다”…LG전자 임직원, 미얀마 청소년 지원 - 한국NGO신문",
+      "contentHash": "d3a3c529c71835a4",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:42.261Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ff4c728ea493": {
+      "headline": "'메타 넘는다' 삼성전자, 디스플레이 품은 AI 글라스 개발 - 디일렉",
+      "contentHash": "344e4d52d635ce9d",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:39.496Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9c716e13c49e": {
+      "headline": "오텍캐리어, 콜드체인 냉동시스템 기술경쟁력 확보 - 칸 kharn",
+      "contentHash": "d9d28e7b92bfd8c7",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:32.059Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "8ef85215b876": {
+      "headline": "[매경춘추] 차고도 뜨거운 과일",
+      "contentHash": "a626ffc958da9415",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:30.862Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7661500ea085": {
+      "headline": "아프리카 청정 인프라 지원나선 현대차그룹",
+      "contentHash": "033176d0e1367d06",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:29.669Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1f72396069c5": {
+      "headline": "홍수 피해 네팔·티베트에 … 현대차그룹, 50만달러 기부",
+      "contentHash": "8e7a34bcb70270e8",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:28.629Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "198ca548a49c": {
+      "headline": "미얀마 청소년 직업학교 … LG전자, 시설개선 봉사",
+      "contentHash": "2adc313b51b7ef8c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:27.185Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "4670d5fd1a22": {
+      "headline": "차세대 'K푸드 월드스타' 찾는다",
+      "contentHash": "7785b3120940bfd7",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:26.168Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "47a4809f86a6": {
+      "headline": "\"국내 최고 창업정책 싱크탱크로 도약\"",
+      "contentHash": "042546da34b53169",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:25.031Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6d25842b02cd": {
+      "headline": "[인사] 산업통상부 / 기획예산처 / 부산대",
+      "contentHash": "7ce8242b9695a007",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:31:23.864Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2421e4ddcdc5": {
+      "headline": "[부음] 장향례씨 별세 외",
+      "contentHash": "60b8b3bdf8bf21a2",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T08:30:52.997Z",
+      "status": "prefilter",
+      "reason": "부고|별세|장례|obituary|funeral"
+    },
     "8715325a8e96": {
       "headline": "SLL, 유럽 최대 미디어그룹 미디어완 손잡았다 - news.jtbc.co.kr",
       "contentHash": "ae7eae7d94328432",
@@ -23,14 +183,6 @@
       "contentHash": "5c72500d4b6beab3",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-09T02:25:42.996Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "75e8152d43d7": {
-      "headline": "LG Electronics India Schedules Analyst and Investor Meetings on September 15 and 21 - Sahi",
-      "contentHash": "924e059074e15160",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-09T02:25:41.842Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -143,22 +295,6 @@
       "contentHash": "2d0028135465b9b5",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-09T02:25:13.633Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "b7ba20619f3d": {
-      "headline": "Who Owns Bosch And Where Are The Appliances Made? - slashgear.com",
-      "contentHash": "99b4356b1519bf41",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-08T22:15:01.654Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "c78f8d1291e5": {
-      "headline": "11 Brands You Didn't Know Were Owned By Whirlpool - housedigest.com",
-      "contentHash": "1dd7a81f3d421dff",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-08T22:14:54.532Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -535,14 +671,6 @@
       "contentHash": "907b4d14f7295275",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-08T08:29:43.397Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "1f04ac32b613": {
-      "headline": "UNMASKED VS. MASKED SUB-ZERO | Mortal Kombat 1: \"Sub-Zero\" Ranked Online Gameplay (Sonya Kameo) - youtu.be",
-      "contentHash": "ca145adb3a2b211a",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-08T08:29:40.632Z",
       "status": "skip",
       "reason": "model_skip"
     },
