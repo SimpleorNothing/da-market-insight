@@ -1,7 +1,174 @@
 {
-  "updatedAt": "2026-09-09T08:32:39.467Z",
+  "updatedAt": "2026-09-09T15:42:43.005Z",
   "schemaVersion": "v2",
   "items": [
+    {
+      "id": 6338,
+      "lens": "소비자",
+      "grade": "참고",
+      "impact": 1.9,
+      "factors": {
+        "salesRelevance": 2,
+        "timeUrgency": 1,
+        "marketSize": 2,
+        "sourceReliability": 3
+      },
+      "products": [
+        "조리기기"
+      ],
+      "competitors": [],
+      "tags": [
+        "소비자안전",
+        "조리기기"
+      ],
+      "headline": "오븐 유리 문이 자발적으로 파손되는 사고 발생",
+      "summary": "현지 가정에서 오븐 유리 문이 폭발하듯 자발적으로 깨지는 사고가 발생해 다른 소비자들에게 주의를 경고했습니다.",
+      "summaryPoints": [
+        {
+          "type": "content",
+          "text": "오븐 유리 문이 폭발한 것처럼 자발적으로 파손되는 사고 발생"
+        },
+        {
+          "type": "content",
+          "text": "피해 가정에서 유사 사고 방지를 위해 다른 소비자들에게 경고 발령"
+        }
+      ],
+      "source": {
+        "name": "Google News - US Home Appliances",
+        "url": "https://www.wpxi.com/news/local/like-bomb-went-off-local-family-warning-others-after-glass-oven-door-spontaneously-shatters/OQCDIT7PVRDSFNM4FRAPP2GMXE/?outputType=amp"
+      },
+      "publishedAt": "2026-09-09T10:52:18.000Z",
+      "url": "https://www.wpxi.com/news/local/like-bomb-went-off-local-family-warning-others-after-glass-oven-door-spontaneously-shatters/OQCDIT7PVRDSFNM4FRAPP2GMXE/?outputType=amp",
+      "linkCheckedAt": "2026-09-09T15:41:05.385Z",
+      "image": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFWRY3GJPINCSBPD5SSNEULR2U4.jpeg?auth=ac2b9bc5fb72c07738e981719b71a5b56328013a0dd1589d6aac833bdb8695da&width=1200&height=630&smart=true",
+      "imageChecked": true
+    },
+    {
+      "id": 6333,
+      "lens": "소비자",
+      "grade": "주요",
+      "impact": 3.9,
+      "factors": {
+        "salesRelevance": 4,
+        "timeUrgency": 3,
+        "marketSize": 4,
+        "sourceReliability": 5
+      },
+      "products": [
+        "조리기기"
+      ],
+      "competitors": [],
+      "tags": [
+        "유통",
+        "물류",
+        "이커머스",
+        "가구"
+      ],
+      "headline": "쿠팡, 초대형 가구 로켓설치 확대…중국산 공세 전망",
+      "summary": "쿠팡이 소파, 침대, 식탁 등 초대형 가구에 배송·설치·반품을 지원하는 로켓설치 서비스를 중국 판매자에게까지 전면 개방한다. 국내 중소 판매자에게 기회가 되는 동시에 저렴한 중국산 가구의 국내 시장 공세가 본격화될 것으로 보인다.",
+      "summaryPoints": [
+        {
+          "type": "content",
+          "text": "쿠팡이 소파·침대·식탁 등 초대형 가구에 로켓설치 서비스를 운영한다."
+        },
+        {
+          "type": "content",
+          "text": "중국 판매자에게도 로켓설치 서비스를 전면 개방하기로 했다."
+        },
+        {
+          "type": "content",
+          "text": "국내 중소 판매자에 기회가 열리는 한편 저렴한 중국산 가구 공세가 전망된다."
+        }
+      ],
+      "source": {
+        "name": "전자신문",
+        "url": "https://www.etnews.com/20260909000226"
+      },
+      "publishedAt": "2026-09-09T07:30:00.000Z",
+      "url": "https://www.etnews.com/20260909000226",
+      "linkCheckedAt": "2026-09-09T15:41:05.385Z",
+      "image": null
+    },
+    {
+      "id": 6335,
+      "lens": "기술",
+      "grade": "주시",
+      "impact": 3.2,
+      "factors": {
+        "salesRelevance": 3,
+        "timeUrgency": 3,
+        "marketSize": 3,
+        "sourceReliability": 4
+      },
+      "products": [
+        "HVAC"
+      ],
+      "competitors": [
+        "Carrier"
+      ],
+      "tags": [
+        "AI데이터센터",
+        "CDU",
+        "EPD인증",
+        "오텍캐리어",
+        "HVAC"
+      ],
+      "headline": "오텍캐리어, AI 데이터센터 핵심 장비 'CDU' EPD 인증 획득",
+      "summary": "오텍캐리어가 AI 데이터센터 핵심 장비인 'CDU'로 국내 첫 EPD(환경성적표지) 인증을 획득했다.",
+      "summaryPoints": [
+        {
+          "type": "content",
+          "text": "오텍캐리어가 AI 데이터센터 핵심 장비인 CDU로 국내 첫 EPD 인증을 획득함"
+        }
+      ],
+      "source": {
+        "name": "Google News - 캐리어/오텍캐리어 KR",
+        "url": "https://www.ftoday.co.kr/news/articleView.html?idxno=365115"
+      },
+      "publishedAt": "2026-09-09T07:16:32.000Z",
+      "url": "https://www.ftoday.co.kr/news/articleView.html?idxno=365115",
+      "linkCheckedAt": "2026-09-09T15:41:05.385Z",
+      "image": "https://cdn.ftoday.co.kr/news/thumbnail/202609/365115_374398_1458_v150.jpg",
+      "imageChecked": true,
+      "relatedArticles": [
+        {
+          "id": 6321,
+          "headline": "오텍캐리어, 글로벌 캐리어 CDU 국내 첫 EPD 친환경 인증 획득",
+          "url": "https://www.popcornnews.net/news/articleView.html?idxno=132319",
+          "source": {
+            "name": "Google News - 캐리어/오텍캐리어 KR"
+          },
+          "publishedAt": "2026-09-09T01:10:20.000Z"
+        },
+        {
+          "id": 6322,
+          "headline": "오텍캐리어, CDU EPD 인증 획득",
+          "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=863475",
+          "source": {
+            "name": "Google News - 캐리어/오텍캐리어 KR"
+          },
+          "publishedAt": "2026-09-09T01:11:14.000Z"
+        },
+        {
+          "id": 6326,
+          "headline": "오텍캐리어, EPD 인증 CDU로 AI 데이터센터 액체냉각 공략",
+          "url": "https://www.hvacrj.co.kr/news/articleView.html?idxno=31253",
+          "source": {
+            "name": "Google News - 캐리어/오텍캐리어 KR"
+          },
+          "publishedAt": "2026-09-09T07:39:45.000Z"
+        },
+        {
+          "id": 6320,
+          "headline": "오텍캐리어, 국내 최초 CDU EPD 인증 획득",
+          "url": "https://www.etnews.com/20260909000131",
+          "source": {
+            "name": "Google News - 캐리어/오텍캐리어 KR"
+          },
+          "publishedAt": "2026-09-09T01:23:05.000Z"
+        }
+      ]
+    },
     {
       "id": 6329,
       "lens": "소비자",
@@ -130,75 +297,6 @@
       "linkCheckedAt": "2026-09-09T02:24:48.144Z",
       "image": "https://static.mk.co.kr/2025/economy/images/economy600600.png",
       "imageChecked": true
-    },
-    {
-      "id": 6320,
-      "lens": "기술",
-      "grade": "주시",
-      "impact": 3.2,
-      "factors": {
-        "salesRelevance": 3,
-        "timeUrgency": 3,
-        "marketSize": 3,
-        "sourceReliability": 4
-      },
-      "products": [
-        "HVAC"
-      ],
-      "competitors": [
-        "Carrier"
-      ],
-      "tags": [
-        "EPD인증",
-        "CDU",
-        "친환경",
-        "오텍캐리어"
-      ],
-      "headline": "오텍캐리어, 국내 최초 CDU EPD 인증 획득",
-      "summary": "오텍캐리어가 국내 최초로 CDU(응축기 유닛) 제품에 대한 EPD(환경성적표지) 인증을 획득했다고 밝혔습니다.",
-      "summaryPoints": [
-        {
-          "type": "content",
-          "text": "오텍캐리어, 국내 최초로 CDU EPD 인증 획득"
-        }
-      ],
-      "source": {
-        "name": "Google News - 캐리어/오텍캐리어 KR",
-        "url": "https://www.etnews.com/20260909000131"
-      },
-      "publishedAt": "2026-09-09T01:23:05.000Z",
-      "url": "https://www.etnews.com/20260909000131",
-      "linkCheckedAt": "2026-09-09T02:24:48.144Z",
-      "image": null,
-      "relatedArticles": [
-        {
-          "id": 6321,
-          "headline": "오텍캐리어, 글로벌 캐리어 CDU 국내 첫 EPD 친환경 인증 획득",
-          "url": "https://www.popcornnews.net/news/articleView.html?idxno=132319",
-          "source": {
-            "name": "Google News - 캐리어/오텍캐리어 KR"
-          },
-          "publishedAt": "2026-09-09T01:10:20.000Z"
-        },
-        {
-          "id": 6322,
-          "headline": "오텍캐리어, CDU EPD 인증 획득",
-          "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=863475",
-          "source": {
-            "name": "Google News - 캐리어/오텍캐리어 KR"
-          },
-          "publishedAt": "2026-09-09T01:11:14.000Z"
-        },
-        {
-          "id": 6326,
-          "headline": "오텍캐리어, EPD 인증 CDU로 AI 데이터센터 액체냉각 공략",
-          "url": "https://www.hvacrj.co.kr/news/articleView.html?idxno=31253",
-          "source": {
-            "name": "Google News - 캐리어/오텍캐리어 KR"
-          },
-          "publishedAt": "2026-09-09T07:39:45.000Z"
-        }
-      ]
     },
     {
       "id": 6293,
@@ -3163,7 +3261,7 @@
       },
       "publishedAt": "2026-09-03T15:34:00.000Z",
       "url": "https://www.chosun.com/economy/tech_it/2026/09/04/6QMEH2VN75CCXGPDYWXUZIBGK4/",
-      "linkCheckedAt": "2026-09-03T19:00:37.483Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://www.chosun.com/resizer/v2/RTSRS7SQKBEMVDT6XXJL6GQDF4.jpg?auth=4aa87f8f7dd857111e7dbbba033540a14be78de5b97f6af7074315f7f62c5ce1&width=1200&height=630&smart=true",
       "imageChecked": true,
       "relatedArticles": [
@@ -4316,7 +4414,7 @@
       },
       "publishedAt": "2026-09-02T07:17:22.000Z",
       "url": "http://www.thefirstmedia.net/news/articleViewAmp.html?idxno=207581",
-      "linkCheckedAt": "2026-09-03T19:00:37.483Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": null,
       "relatedArticles": [
         {
@@ -7920,7 +8018,7 @@
       },
       "publishedAt": "2026-08-28T00:04:37.000Z",
       "url": "https://themalaysianreserve.com/2026/08/28/pidm-names-afiza-ceo-haier-malaysia-bolttech-announces-leadership-appointments/amp/",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": null
     },
     {
@@ -7965,7 +8063,7 @@
       },
       "publishedAt": "2026-08-28T00:00:00.000Z",
       "url": "https://www.bloomberg.com/news/articles/2026-08-28/haier-sees-europe-india-ac-demand-offset-weak-china-sales",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": null
     },
     {
@@ -8211,7 +8309,7 @@
       },
       "publishedAt": "2026-08-27T20:59:53.000Z",
       "url": "https://finance.yahoo.com/markets/stocks/articles/haier-smart-home-reports-h1-205953408.html",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": null
     },
     {
@@ -12525,7 +12623,7 @@
       },
       "publishedAt": "2026-08-23T07:00:00.000Z",
       "url": "https://www.etnews.com/20260821000107",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://img.etnews.com/news/article/2026/08/12/news-p.v1.20260812.25e518b62b6b40d8b663c193a48352e4_P1.png",
       "imageChecked": true
     },
@@ -12754,7 +12852,7 @@
       },
       "publishedAt": "2026-08-23T02:38:48.000Z",
       "url": "https://mbiz.heraldcorp.com/article/10849025",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://wimg.heraldcorp.com/news/cms/2026/08/23/rcv.YNA.20260806.PYH2026080604640005100_T1.jpg",
       "imageChecked": true
     },
@@ -13085,7 +13183,7 @@
       },
       "publishedAt": "2026-08-22T18:35:00.000Z",
       "url": "https://finance.yahoo.com/technology/ai/articles/data-centers-dont-just-power-183500900.html",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": null
     },
     {
@@ -13964,7 +14062,7 @@
       },
       "publishedAt": "2026-08-21T18:10:00.000Z",
       "url": "https://m.economictimes.com/industry/cons-products/electronics/lg-electronics-india-bets-on-exports-b2b-products-for-margin-boost/amp_articleshow/133411736.cms",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://m.economictimes.com/thumb/msid-133411755,width-1200,height-900,resizemode-4,imgsize-98688/lg-electronics-india-q1-results-pat-rises-marginally-to-rs-653-crore-revenue-up-15.jpg",
       "imageChecked": true
     },
@@ -15788,7 +15886,7 @@
       },
       "publishedAt": "2026-08-19T06:30:03.000Z",
       "url": "https://www.koreaherald.com/article/10845574",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://wimg.heraldcorp.com/news/cms/2026/08/19/news-p.v1.20260819.77eed7d2f6404c809cb830fe5438788f_T1.jpg",
       "imageChecked": true,
       "relatedArticles": [
@@ -18217,7 +18315,7 @@
       },
       "publishedAt": "2026-08-15T13:30:00.000Z",
       "url": "https://www.etnews.com/20260814000293",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://img.etnews.com/news/article/2026/08/14/news-p.v1.20260814.3a78924284f74e76a551dafa7b46e555_P1.jpg",
       "imageChecked": true
     },
@@ -22659,7 +22757,7 @@
       },
       "publishedAt": "2026-08-11T16:44:19.000Z",
       "url": "https://mexicobusiness.news/mining/news/us-aluminum-lobby-asks-washington-keep-tariffs-out-usmca",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": null
     },
     {
@@ -22698,7 +22796,7 @@
       },
       "publishedAt": "2026-08-11T16:20:06.000Z",
       "url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-leads-nebraska-delegation-letter-supporting-usmca/",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "assets/img/topics/policy.svg",
       "imageChecked": true,
       "imageOriginal": "https://www.ricketts.senate.gov/wp-content/uploads/2026/02/20260211-mertz-303-scaled.jpg",
@@ -22782,7 +22880,7 @@
       },
       "publishedAt": "2026-08-11T14:20:01.000Z",
       "url": "https://go.seoul.co.kr/news/prnewsView.php?id=369279&section=success_story&page=1287",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://imggo.seoul.co.kr/img/go_share.png",
       "imageChecked": true
     },
@@ -25081,7 +25179,7 @@
       },
       "publishedAt": "2026-08-09T21:23:06.000Z",
       "url": "https://www.nzherald.co.nz/business/companies/manufacturing/fisher-paykel-appliances-cuts-44-staff-in-new-zealand/premium/43XQFIBOFVHVPKJNDVX6J2KK6A/",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://www.nzherald.co.nz/resizer/v2/AEPV5LPJRJDTJAOPNPNGEA62H4.JPG?auth=cb4419f18ef940fe01ec5cf0b18882ebf7077b8e86db429aed82057f193f7ac6&width=1200&height=675&quality=70&focal=1074%2C641&smart=false",
       "imageChecked": true
     },
@@ -25161,7 +25259,7 @@
       },
       "publishedAt": "2026-08-09T08:51:59.000Z",
       "url": "https://www.mk.co.kr/news/world/12122283",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://static.mk.co.kr/facebook_mknews.jpg",
       "imageChecked": true
     },
@@ -25202,7 +25300,7 @@
       },
       "publishedAt": "2026-08-09T08:51:58.000Z",
       "url": "https://www.mk.co.kr/news/world/12122281",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://pimg.mk.co.kr/news/cms/202608/10/20260810_01110108000008_L00.jpg",
       "imageChecked": true
     },
@@ -25250,7 +25348,7 @@
       },
       "publishedAt": "2026-08-09T08:00:00.000Z",
       "url": "https://www.etnews.com/20260807000118",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://img.etnews.com/news/article/2026/07/31/news-p.v1.20260731.310afa1866b9453c9114023e2074d8d4_P2.png",
       "imageChecked": true
     },
@@ -25295,7 +25393,7 @@
       },
       "publishedAt": "2026-08-09T08:00:00.000Z",
       "url": "https://www.ajunews.com/view/20260809135645652",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://image.ajunews.com/content/image/2026/08/09/20260809140058194400.jpg",
       "imageChecked": true
     },
@@ -25345,7 +25443,7 @@
       },
       "publishedAt": "2026-08-09T07:00:00.000Z",
       "url": "https://www.etnews.com/20260807000266",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.7809bd9fde97452899b9450bb28a3787_P1.png",
       "imageChecked": true
     },
@@ -25388,7 +25486,7 @@
       },
       "publishedAt": "2026-08-09T06:52:16.000Z",
       "url": "https://www.joongang.co.kr/article/25451919",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/09/6b6edb42-55db-48c2-9d96-5833c4c82e2e.jpg",
       "imageChecked": true
     },
@@ -25438,7 +25536,7 @@
       },
       "publishedAt": "2026-08-09T06:00:00.000Z",
       "url": "https://www.etnews.com/20260807000185",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg",
       "imageChecked": true
     },
@@ -25480,7 +25578,7 @@
       },
       "publishedAt": "2026-08-09T05:39:28.000Z",
       "url": "https://v.daum.net/v/20260809143928387",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/09/dt/20260809143929521qbrn.jpg",
       "imageChecked": true
     },
@@ -30280,7 +30378,7 @@
       },
       "publishedAt": "2026-08-04T23:25:32.000Z",
       "url": "https://newshub.medianet.com.au/2026/08/admares-announces-strategic-partnership-with-bosch-to-advance-the-industrialisation-of-housing/164821/",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://newshub-website-data.s3.ap-southeast-2.amazonaws.com/2026/08/05090539/ADMARES-Smart-Factory-Visualisation-1-1024x614.jpg",
       "imageChecked": true
     },
@@ -32343,7 +32441,7 @@
       },
       "publishedAt": "2026-08-03T20:05:00.000Z",
       "url": "https://www.prnewswire.com/news-releases/whirlpool-corporation-announces-second-quarter-results-302841564.html",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://mmx.prnewswire.com/media/MS426698/Whirlpool-Corporation-Logo.jpg?id=OA2822391&p=facebook",
       "imageChecked": true
     },
@@ -32876,7 +32974,7 @@
       },
       "publishedAt": "2026-08-03T05:20:00.000Z",
       "url": "https://news.nate.com/view/20260803n18740?mid=n1101",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/mt/2026/08/03/2026080314123597139_1.jpg",
       "imageChecked": true
     },
@@ -33450,7 +33548,7 @@
       },
       "publishedAt": "2026-08-03T00:28:55.000Z",
       "url": "https://www.newstree.kr/newsView/ntr202608030001",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://www.newstree.kr/data/ntr/image/2026/08/03/ntr202608030001.jpg",
       "imageChecked": true,
       "relatedArticles": [
@@ -40473,7 +40571,7 @@
       },
       "publishedAt": "2026-07-28T01:04:24.000Z",
       "url": "https://www.mk.co.kr/news/economy/12109146",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "assets/img/topics/policy.svg",
       "imageChecked": true,
       "imageOriginal": "https://pimg.mk.co.kr/news/cms/202607/28/news-p.v1.20260728.828b47f8aeb54922bd3ab71373a575a7_R.jpg",
@@ -40571,7 +40669,7 @@
       },
       "publishedAt": "2026-07-27T23:42:29.000Z",
       "url": "https://www.ajunews.com/amp/20260728082626342",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://image.ajunews.com/content/image/2026/07/28/20260728083952143362.jpg",
       "imageChecked": true,
       "relatedArticles": [
@@ -43614,7 +43712,7 @@
       },
       "publishedAt": "2026-07-24T17:48:00.000Z",
       "url": "https://www.blockmedia.co.kr/archives/1120523",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/06/20260604-012107.jpg",
       "imageChecked": true
     },
@@ -43953,7 +44051,7 @@
       },
       "publishedAt": "2026-07-24T11:25:42.000Z",
       "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/electrolux-stock-trades-steadily-as-margin-focus-follows-2025-recovery/69862204",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://mdb.ad-hoc-news.de/bild/bild-2706737_1920_1080.webp",
       "imageChecked": true
     },
@@ -47541,7 +47639,7 @@
       },
       "publishedAt": "2026-07-21T23:24:06.000Z",
       "url": "https://www.seoul.co.kr/news/international/2026/07/22/20260722500008",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://img.seoul.co.kr//img/upload/2026/07/22/SSC_20260722082405_O2.jpg",
       "imageChecked": true
     },
@@ -47628,7 +47726,7 @@
       },
       "publishedAt": "2026-07-21T22:51:18.000Z",
       "url": "https://v.daum.net/v/20260722075118553",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/22/sbscnbc/20260722075119791aeie.jpg",
       "imageChecked": true,
       "relatedArticles": [
@@ -47823,7 +47921,7 @@
       },
       "publishedAt": "2026-07-21T15:48:40.000Z",
       "url": "https://www.vietnam.vn/ko/my-mexico-noi-lai-dam-phan-usmca-canada-vang-mat",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/21/1784641347955_gettyimages-2264095727-612x61220260721182946.jpeg",
       "imageChecked": true
     },
@@ -48046,7 +48144,7 @@
       },
       "publishedAt": "2026-07-21T12:33:42.000Z",
       "url": "https://www.mysmartprice.com/gear/appliances/appliances-news/bsh-home-appliances-showcases-bosch-and-siemens-small-appliances-ahead-of-the-festive-season/",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": null
     },
     {
@@ -48737,7 +48835,7 @@
       },
       "publishedAt": "2026-07-21T02:21:37.000Z",
       "url": "https://www.g-enews.com/article/Global-Biz/2026/07/2026072111182661412bd56fbc3c_1",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260721112011059682bd56fbc3c22210812861.jpg",
       "imageChecked": true
     },
@@ -50447,7 +50545,7 @@
       },
       "publishedAt": "2026-07-18T08:04:25.000Z",
       "url": "https://menafn.com/1111410707/Whirlpool-Corp-Recognized-For-Sustainability-Leadership-In-Dow-Jones-Best-In-Class-Indices-And-SP-Global-Sustainability-Yearbook",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "image": null
     },
     {
@@ -58712,7 +58810,7 @@
       "publishedAt": "2026-07-05T09:01:03.000Z",
       "url": "https://en.sedaily.com/news/2026/07/05/lg-electronics-opens-sks-showroom-in-boston-to-expand-north",
       "image": null,
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "relatedArticles": [
         {
           "id": 1473,
@@ -58757,7 +58855,7 @@
       "publishedAt": "2026-07-05T02:00:00.000Z",
       "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EB%AC%B4%ED%92%8D-%EC%97%90%EC%96%B4%EC%BB%A8-%EC%95%9E%EC%84%B8%EC%9B%8C-%EA%B8%80%EB%A1%9C%EB%B2%8C-b2b-%EA%B3%B5%EC%A1%B0%EC%8B%9C%EC%9E%A5-%EA%B3%B5%EB%9E%B5",
       "image": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2026/07/05095102/thumb_PC.jpg",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -58809,7 +58907,7 @@
       "publishedAt": "2026-07-05T01:00:00.000Z",
       "url": "https://www.etnews.com/20260630000313",
       "image": null,
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z"
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z"
     },
     {
       "id": 1378,
@@ -58844,7 +58942,7 @@
       "publishedAt": "2026-07-05T01:00:00.000Z",
       "url": "https://www.newspim.com/news/view/20260705000015",
       "image": "https://img.newspim.com/news/2026/07/05/2607050856163760_691_tc.jpg",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -58881,7 +58979,7 @@
       "publishedAt": "2026-07-04T21:10:38.000Z",
       "url": "https://biz.chosun.com/it-science/ict/2026/07/05/TL57WK6RKRCQVEDIDYPPUFUGTU/",
       "image": "https://biz.chosun.com/resizer/v2/6E2DZQEZ3VEU5PMUHKPMIYWFVU.jpg?auth=1c57452bf688026a8262f5d2e446ba13eb974a661401aadbc7f2542eea65dfb8&width=1040&height=546&smart=true",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -58924,7 +59022,7 @@
       "publishedAt": "2026-07-04T16:03:21.000Z",
       "url": "https://www.tikr.com/blog/down-65-over-the-past-year-is-whirlpool-nyse-whr-stock-a-deep-value-play-or-a-value-trap",
       "image": "https://res.cloudinary.com/tikr/images/w_600,h_400,c_scale/f_webp,q_auto/v1783149742/images/WHR-stock/WHR-stock.png?_i=AA",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -58954,7 +59052,7 @@
       "publishedAt": "2026-07-04T14:24:21.000Z",
       "url": "https://www.investing.com/news/stock-market-news/jefferies-china-home-appliances-demand-weakens-in-april-and-early-may-93CH-4667467",
       "image": null,
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z"
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z"
     },
     {
       "id": 1366,
@@ -58986,7 +59084,7 @@
       "publishedAt": "2026-07-04T10:56:12.000Z",
       "url": "https://news.jtbc.co.kr/video/NB12300177",
       "image": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/05/28/20260528074128450001.jpg",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -59031,7 +59129,7 @@
       "publishedAt": "2026-07-04T07:00:00.000Z",
       "url": "https://www.consumerreports.org/appliances/refrigerators/best-top-freezer-refrigerators-a8396738849/",
       "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1741114180/prod/content/dam/CRO-Images-2025/Appliances/CR-Appliances-InlineHero-Best-Top-Freezers-0325",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -59065,7 +59163,7 @@
       "publishedAt": "2026-07-04T05:27:53.000Z",
       "url": "https://platum.kr/archives/290388",
       "image": "https://cdn.platum.kr/wp-content/uploads/2026/07/mo-1024x681.jpg",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -59114,7 +59212,7 @@
       "publishedAt": "2026-07-04T01:34:12.000Z",
       "url": "https://www.newsnationnow.com/vargasreports/whirlpool-us-made-spirit-america/",
       "image": null,
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z"
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z"
     },
     {
       "id": 1351,
@@ -59148,7 +59246,7 @@
       "publishedAt": "2026-07-04T00:36:04.000Z",
       "url": "https://www.asiatime.co.kr/article/20260703500335",
       "image": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/07/03/.cache/512/20260703500334.jpg",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -59182,7 +59280,7 @@
       "publishedAt": "2026-07-03T22:41:00.000Z",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008641177&plink=ORI&cooper=RSS",
       "image": "https://img.sbs.co.kr/newimg/news/20260704/202198891_1280.jpg",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -59222,7 +59320,7 @@
       "publishedAt": "2026-07-03T21:59:45.000Z",
       "url": "https://www.g-enews.com/article/Global-Biz/2026/07/2026070406560364552bd56fbc3c_1",
       "image": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260704065731025462bd56fbc3c21121419978.jpg",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -59270,7 +59368,7 @@
       "publishedAt": "2026-07-03T21:43:34.000Z",
       "url": "https://www.msn.com/en-us/money/economy/how-is-whirlpool-responding-to-slowing-us-housing-demand/ar-AA1UiepA?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
       "image": null,
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z"
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z"
     },
     {
       "id": 1365,
@@ -59303,7 +59401,7 @@
       "publishedAt": "2026-07-03T20:02:37.000Z",
       "url": "https://v.daum.net/v/20260704050237686",
       "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/04/segye/20260704050237398brdq.jpg",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -59334,7 +59432,7 @@
       "publishedAt": "2026-07-03T13:30:00.000Z",
       "url": "https://www.etnews.com/20260702000242",
       "image": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.2fa05dd7afa346f99f0edbf8661e1745_P1.jpg",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -59364,7 +59462,7 @@
       "publishedAt": "2026-07-03T12:00:07.000Z",
       "url": "https://www.scmp.com/news/china/science/article/3359292/many-chinese-scientists-use-research-funding-buy-home-appliances-and-skincare-study",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/03/5c0be947-716c-491a-84b9-130812e62099_310a3504.jpg?itok=5LT3CNSR&v=1783063030",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -59402,7 +59500,7 @@
       "publishedAt": "2026-07-03T09:33:06.000Z",
       "url": "https://www.msn.com/en-us/money/companies/lg-electronics-seeks-87-billion-valuation-for-india-unit-ipo/ar-AA1NBVdg?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
       "image": null,
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z"
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z"
     },
     {
       "id": 1372,
@@ -59440,7 +59538,7 @@
       "publishedAt": "2026-07-03T09:00:00.000Z",
       "url": "https://m.ajupress.com/amp/20260703180070534",
       "image": null,
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z"
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z"
     },
     {
       "id": 1355,
@@ -59480,7 +59578,7 @@
       "publishedAt": "2026-07-03T07:51:55.000Z",
       "url": "https://www.chinadailyasia.com/article/635887",
       "image": "https://www.chinadailyhk.com/upload/main/image/2026/07/03/56e3281c44350ddeea3410a482d11ee3.png",
-      "linkCheckedAt": "2026-09-03T18:59:53.312Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {
@@ -59514,7 +59612,7 @@
       "publishedAt": "2026-07-03T07:33:48.000Z",
       "url": "https://v.daum.net/v/20260703163348491",
       "image": "assets/img/topics/climate.svg",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true,
       "imageOriginal": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/03/kedtv/20260703163348397dctr.jpg",
       "thumbFace": true
@@ -59549,7 +59647,7 @@
       "publishedAt": "2026-07-03T07:21:33.000Z",
       "url": "https://www.yna.co.kr/amp/view/AKR20260703122900704",
       "image": "https://img7.yna.co.kr/etc/inner/KR/2026/07/03/AKR20260703122900704_01_i_P4.jpg",
-      "linkCheckedAt": "2026-09-03T22:04:25.549Z",
+      "linkCheckedAt": "2026-09-09T15:40:12.065Z",
       "imageChecked": true
     },
     {

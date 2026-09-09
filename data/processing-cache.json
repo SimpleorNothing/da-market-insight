@@ -1,7 +1,215 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-09T08:32:39.143Z",
+  "updatedAt": "2026-09-09T15:42:42.586Z",
   "entries": {
+    "1bd7294d93b4": {
+      "headline": "Huahao Industrial Safety: Delivering Custom Winter Work Wear Solutions for Global Cold-Weather Operations - Issuewire",
+      "contentHash": "874404f7c1dee4b8",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:42:21.840Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "848a3e09af41": {
+      "headline": "Xiaomi, XPeng, and Volkswagen Unveil at IFA: The Integrated People-Vehicle-Home Ecosystem Battle Begins – Blurring Boundaries Between Automobiles and Home Appliances - 36Kr",
+      "contentHash": "6c792034ea00ba18",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:42:20.667Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "69dc3d4095e2": {
+      "headline": "GE Appliances Named to ‘2026 Best Workplace for Innovators’ - RVBusiness",
+      "contentHash": "e2ff34a849e530e5",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:42:17.758Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2b768e45bcb3": {
+      "headline": "“세탁기가 코스-세제 양 결정, 고민 필요없는 집안일 종말 시대” - v.daum.net",
+      "contentHash": "7da16147989db783",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:42:16.332Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "abe324993101": {
+      "headline": "이재용 회장, 모친 삼성전자 주식 718만주 1.9조원에 매수 - news.jtbc.co.kr",
+      "contentHash": "6748209139a7bb2c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:42:15.044Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "12e55a0e4055": {
+      "headline": "이재용, 母 소유 삼성전자 주식 1.9조어치 매입…상속대출 상환 추정 - 주간한국",
+      "contentHash": "8f384eb2a9445e4b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:42:13.838Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "df76c8de88e3": {
+      "headline": "이재용, 홍라희 삼성전자 주식 1.9조원에 매입…지분 1.58%로 - 중앙일보",
+      "contentHash": "ae053a2f44ac82be",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:42:12.720Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1c32cca7c1fc": {
+      "headline": "삼성전자 '성과급 투쟁' 조끼‥\"노조위원장 장인 업체서 샀다\" - MBC 뉴스",
+      "contentHash": "876c69d23a322b5f",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:42:11.520Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "4f1808878707": {
+      "headline": "[법조 인사이드] 계약서 평수 줄이고 ‘월세깡’… 삼성전자 ‘부정수급’, 해고·사기죄 될까 - 조선비즈 - Chosunbiz",
+      "contentHash": "e7abf38674b6892b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:42:10.359Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ff4c728ea493": {
+      "headline": "'메타 넘는다' 삼성전자, 디스플레이 품은 AI 글라스 개발 - thelec.kr",
+      "contentHash": "66d2655ba2b7a10b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:42:09.110Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "df21efd3c2de": {
+      "headline": "오텍캐리어 냉각수분배장치(CDU) - etnews.com",
+      "contentHash": "3c82d2c5d5c273af",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:42:07.905Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6db9eb68a2e6": {
+      "headline": "포커스 원 시스템 아키텍처의 입문 가이드: 사상, 행동 및 결과 - Histoire pour tous",
+      "contentHash": "bd4e1dcfcf45a660",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:42:06.598Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "b322b0c4fdd1": {
+      "headline": "총리 연봉이 38억…트럼프보다 많이 받는 이 나라",
+      "contentHash": "4e85e43a40edbb22",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:57.213Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "04dd6f1a1fa9": {
+      "headline": "최태원, 노소영 재산분할 7000억원 수용…2440억원만 다투기로",
+      "contentHash": "f0cab1280a4e06e1",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:55.835Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "3cb1a4492cf0": {
+      "headline": "한국오라클 클라우드 매출 1000억 육박…OCI 국내 사업 본궤도",
+      "contentHash": "bab27f0815d40e9f",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:54.558Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "a20a5d747f00": {
+      "headline": "日, 성범죄자 '본인이 동의해야' GPS 착용?…“누구를 위한 법이냐”",
+      "contentHash": "89f7fa0aaeeed54c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:53.275Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ba9ed9e7b37d": {
+      "headline": "이재용, 母 지분 1.9조원에 매수...상속세 '정리'",
+      "contentHash": "a0a4a33b8ae5a6f9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:52.117Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "346616ed0e6d": {
+      "headline": "'세균 득실' 변기 내부…“물 내릴 때 뚜껑 안 닫으면 호흡기로 침투”",
+      "contentHash": "f4c8fbc4b911a9cb",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:50.901Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "f4ccc41e780d": {
+      "headline": "“고대 수시 경쟁률은 올랐는데”…서울대·연대 이어 의대도 하락, 이유가",
+      "contentHash": "522f7f8319247892",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:49.695Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ac2f877b22a7": {
+      "headline": "“1400억 과징금 맞았던 동양생명 폭탄 피했다”…금융위 70억 제재 의결",
+      "contentHash": "144ed1a9b9be179d",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:48.382Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "d6584b29d101": {
+      "headline": "[속보] “유가 100달러 넘었다”…뉴욕증시, 인플레 우려에 하락 출발",
+      "contentHash": "26c2f32217f2e89b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:47.160Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1a590a4771b9": {
+      "headline": "“중요한 건 대화 의지”…러시아, 러우전쟁 두고 ‘3자회담 재개’ 시사",
+      "contentHash": "d6a2d064e65aeff7",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:45.941Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1b28245c156e": {
+      "headline": "독일 총리·트럼프 간 전화통화 돌연 연기…새 통화 날짜도 안 정해져, 왜?",
+      "contentHash": "e34e5fa8f157209e",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:44.751Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "43f902c07fbd": {
+      "headline": "제2의 부경장 없도록…제주경찰 야간근무 1→2인, 실종수사팀도 2배로",
+      "contentHash": "4a34fffc8b88de10",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:43.548Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "241d238a6fb3": {
+      "headline": "[속보] 부산 예인선 전복 실종자 1명 시신 포항 해변서 발견",
+      "contentHash": "eb2c0b50c5983246",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:05.368Z",
+      "status": "prefilter",
+      "reason": "관광버스|교통사고|강진|지진 사망|실종자|tour bus|earthquake.*(?:dead|killed)"
+    },
+    "64a56ac74bcb": {
+      "headline": "부산 예인선 전복 사고 실종자, 포항 해변서 숨진 채 발견",
+      "contentHash": "80356a2f16c4fa5b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T15:41:05.367Z",
+      "status": "prefilter",
+      "reason": "관광버스|교통사고|강진|지진 사망|실종자|tour bus|earthquake.*(?:dead|killed)"
+    },
     "b7ba20619f3d": {
       "headline": "Who Owns Bosch And Where Are The Appliances Made? - SlashGear",
       "contentHash": "520e80adc47e6f2b",
@@ -66,27 +274,11 @@
       "status": "skip",
       "reason": "model_skip"
     },
-    "848a3e09af41": {
-      "headline": "Xiaomi, XPeng, and Volkswagen Unveil at IFA: The Integrated People-Vehicle-Home Ecosystem Battle Begins – Blurring Boundaries Between Automobiles and Home Appliances - 36 Kr",
-      "contentHash": "6b874c9aa532b9d3",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-09T08:31:43.457Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
     "55b25865866d": {
       "headline": "“배움의 공간을 바꾸다”…LG전자 임직원, 미얀마 청소년 지원 - 한국NGO신문",
       "contentHash": "d3a3c529c71835a4",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-09T08:31:42.261Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "ff4c728ea493": {
-      "headline": "'메타 넘는다' 삼성전자, 디스플레이 품은 AI 글라스 개발 - 디일렉",
-      "contentHash": "344e4d52d635ce9d",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-09T08:31:39.496Z",
       "status": "skip",
       "reason": "model_skip"
     },
