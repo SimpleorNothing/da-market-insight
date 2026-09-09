@@ -1,7 +1,63 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-09T19:01:42.822Z",
+  "updatedAt": "2026-09-09T22:11:57.015Z",
   "entries": {
+    "16921330f603": {
+      "headline": "“보수 텃밭서 50대 50? 돈 풀면 돼”…무법자와 억만장자의 간단한 비법",
+      "contentHash": "4cf9b4d7647eed18",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T22:11:56.604Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "19245240a32e": {
+      "headline": "‘뉴진스 퇴출’ 다니엘, 또 법정으로…어도어와 331억 소송 5차전",
+      "contentHash": "e419010141de6733",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T22:11:55.490Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "444500c28adc": {
+      "headline": "“집값 더 오르기 전에”…서울 생애최초 주택 매수 비중 역대 최대",
+      "contentHash": "3d7315aab0be9c02",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T22:11:54.420Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7b9fe8c0896a": {
+      "headline": "“한강러닝 다녀오겠단 아들, 그 속 몰랐습니다”…생명의전화 절반이 1020",
+      "contentHash": "a26f2ca1ea17dbee",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T22:11:53.316Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "f30475e3cf49": {
+      "headline": "매경이 전하는 세상의 지식 (매-세-지, 9월 10일)",
+      "contentHash": "11bdb568b2e7459c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T22:11:52.211Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "b0ab41685719": {
+      "headline": "오래된 게임과의 ‘헤어질 결심’, 엔딩에도 룰은 있는가 [BKL 게임&비즈리포트]",
+      "contentHash": "ddffa5555c308ebf",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T22:11:51.037Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "0281717b966a": {
+      "headline": "“젤렌스키 탄 비행기, 드론과 충돌할 뻔”…노르웨이 총리 긴박했던 순간 공개",
+      "contentHash": "fe8147b358ee0821",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-09T22:11:49.843Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
     "806b89fb0540": {
       "headline": "Kauffeld, Nielsen Named Trane Student-Athletes of the Month for September - Belmont Bruins",
       "contentHash": "44311406f2aff40d",
