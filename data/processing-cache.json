@@ -1,20 +1,100 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-10T22:10:44.717Z",
+  "updatedAt": "2026-09-10T23:34:21.887Z",
   "entries": {
+    "fe05b2ce4685": {
+      "headline": "4 Bosch Power Tools With Deep Discounts In September 2026 - SlashGear",
+      "contentHash": "483346f812c1bf4a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T23:33:44.239Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "85e82c0e7d1d": {
+      "headline": "9 Best Vacuums of 2026, Lab-Tested and Reviewed - Consumer Reports",
+      "contentHash": "0280f59ea5b7443f",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T23:33:43.152Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "e082f78c3f6e": {
+      "headline": "Manchester-by-the-Sea Estate on 13 Acres With Sweeping Views of Kettle Cove and Crow Island Hits the Market for $6.9 Million - nshoremag.com",
+      "contentHash": "fca9bb88a41a539f",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T23:33:41.931Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ad6c101825d2": {
+      "headline": "KUKA 글로벌 경영진, 지능형 조립 제조 기술 교류를 위해 센트론 방문 - koreaeaglenews.com",
+      "contentHash": "c5e25ed8810abba5",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T23:33:40.830Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "8c13d66d851a": {
+      "headline": "3 Shaky Consumer Dividend Stocks Flashing Warning Signs - 24/7 Wall St.",
+      "contentHash": "7f47505360047bbe",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T23:33:30.716Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "f3d1df0f48a4": {
+      "headline": "World’s Most Trustworthy Companies 2026 - rankings.newsweek.com",
+      "contentHash": "17d8f7b19905ea58",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T23:33:29.558Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "da923e508650": {
+      "headline": "Best Buy's Labor Day appliance sale is still live — 45% off plus free shipping on Samsung, LG, Whirlpool, and GE - techradar.com",
+      "contentHash": "f8cd98ba8b4ad558",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T23:33:19.205Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "a6edd7248cf9": {
+      "headline": "LG전자 베스트샵 송도본점, 새단장 오픈 맞아 웨딩·입주 가전 혜택 선보여 - v.daum.net",
+      "contentHash": "df389212d9a99823",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T23:33:13.996Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "f7397803f30a": {
+      "headline": "“노인에게 AI는 창살없는 감옥 될수도…인간적 돌봄 대체해선 안돼”",
+      "contentHash": "d2e841fadf3b78d9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T23:33:06.822Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "eb5bf292a756": {
+      "headline": "와인 마시고 경품 추첨까지…더블트리 판교, ‘쏠쏠한 와인 마켓’ 개최",
+      "contentHash": "68d501dc2d83b60d",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T23:33:05.670Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2f50e636635d": {
+      "headline": "주거·대학·공원을 하나로, 원스톱 상업시설 공급",
+      "contentHash": "1ad915298a8ad229",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T23:33:04.511Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
     "dac714424480": {
       "headline": "Putting “Temperature Perception” in the Kitchen: How Infrared Thermometry Modules Are Transforming Smart Home Appliances - FinancialContent",
       "contentHash": "5b52015a5ecae055",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-10T22:09:44.335Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "da923e508650": {
-      "headline": "Best Buy's Labor Day appliance sale is still live — 45% off plus free shipping on Samsung, LG, Whirlpool, and GE - TechRadar",
-      "contentHash": "e230c5106cb424ad",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-10T22:09:43.193Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -122,14 +202,6 @@
       "status": "skip",
       "reason": "model_skip"
     },
-    "e082f78c3f6e": {
-      "headline": "Manchester-by-the-Sea Estate on 13 Acres With Sweeping Views of Kettle Cove and Crow Island Hits the Market for $6.9 Million - Northshore Magazine",
-      "contentHash": "383916e3dccc14b3",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-10T18:53:21.128Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
     "8a142f0a804b": {
       "headline": "The 6 Best Refrigerator Brands of 2026 - RTINGS.com",
       "contentHash": "43e15777601a4267",
@@ -162,27 +234,11 @@
       "status": "skip",
       "reason": "model_skip"
     },
-    "7f40ce48d281": {
-      "headline": "Whirlpool Builds Diversified Carbon Removal Portfolio - ESG News",
-      "contentHash": "e4a4916a48bf3084",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-10T18:52:57.535Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
     "9a9366e5936e": {
       "headline": "삼성전자 - 매일경제 마켓",
       "contentHash": "435c24796631f74b",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-10T18:52:48.131Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "f3d1df0f48a4": {
-      "headline": "World’s Most Trustworthy Companies 2026 - Newsweek Rankings",
-      "contentHash": "28553410f6a39f1e",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-10T15:37:39.141Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -895,14 +951,6 @@
       "contentHash": "520e80adc47e6f2b",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-09T08:32:01.724Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "ad6c101825d2": {
-      "headline": "KUKA 글로벌 경영진, 지능형 조립 제조 기술 교류를 위해 센트론 방문 - 코리아이글뉴스",
-      "contentHash": "b8c9a3af10cf7960",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-09T08:32:00.555Z",
       "status": "skip",
       "reason": "model_skip"
     },
