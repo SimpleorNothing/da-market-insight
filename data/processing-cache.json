@@ -1,7 +1,87 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-10T15:38:20.289Z",
+  "updatedAt": "2026-09-10T18:54:11.524Z",
   "entries": {
+    "10efe97da086": {
+      "headline": "How Johnson Controls Helps Data Centers Reuse Energy - National Association of Manufacturers - NAM",
+      "contentHash": "07d5df65e7bbd0e7",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T18:53:23.403Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "1afe5f0c30d7": {
+      "headline": "Upgraded North Ranch home with with resort-style amenities - Thousand Oaks Acorn",
+      "contentHash": "edf821ac8572dcf7",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T18:53:22.244Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "e082f78c3f6e": {
+      "headline": "Manchester-by-the-Sea Estate on 13 Acres With Sweeping Views of Kettle Cove and Crow Island Hits the Market for $6.9 Million - Northshore Magazine",
+      "contentHash": "383916e3dccc14b3",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T18:53:21.128Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "8a142f0a804b": {
+      "headline": "The 6 Best Refrigerator Brands of 2026 - RTINGS.com",
+      "contentHash": "43e15777601a4267",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T18:53:19.635Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6101bcb18aac": {
+      "headline": "3 Shaky Consumer Dividend Stocks Flashing Warning Signs - 24/7 Wall St.",
+      "contentHash": "7f47505360047bbe",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T18:53:09.105Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ee8c730b6c05": {
+      "headline": "Applicances & Electronics - Newsweek Rankings",
+      "contentHash": "6b9b8d88091df157",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T18:53:07.737Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "57f305830f94": {
+      "headline": "Whirlpool stock hits 52-week low at 35.37 USD By Investing.com - Investing.com Canada",
+      "contentHash": "85fd01bfc45b73a9",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T18:52:58.707Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7f40ce48d281": {
+      "headline": "Whirlpool Builds Diversified Carbon Removal Portfolio - ESG News",
+      "contentHash": "e4a4916a48bf3084",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T18:52:57.535Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "9a9366e5936e": {
+      "headline": "삼성전자 - 매일경제 마켓",
+      "contentHash": "435c24796631f74b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T18:52:48.131Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "32c622138b1b": {
+      "headline": "Energy, infrastructure investors in Mexico need treaty protection as USMCA doubts grow - bnamericas.com",
+      "contentHash": "2d264ab57e76038c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T18:52:14.386Z",
+      "status": "prefilter",
+      "reason": "BTS|그래미|아이돌|연예인|concert|celebrity"
+    },
     "f3d1df0f48a4": {
       "headline": "World’s Most Trustworthy Companies 2026 - Newsweek Rankings",
       "contentHash": "28553410f6a39f1e",
@@ -31,14 +111,6 @@
       "contentHash": "b33f43e1853e0de2",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-10T15:37:35.559Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "1e9a75d46fca": {
-      "headline": "Whirlpool Procures Multi-Technology Carbon Removal Portfolio - ESG Today",
-      "contentHash": "e1853e1fb0a6202e",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-10T15:37:34.384Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -2567,14 +2639,6 @@
       "contentHash": "f7f429ba73898c9b",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-05T21:51:10.315Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "1afe5f0c30d7": {
-      "headline": "Upgraded North Ranch home with with resort-style amenities - toacorn.com",
-      "contentHash": "829133cc61f7886a",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-05T21:51:07.630Z",
       "status": "skip",
       "reason": "model_skip"
     },
