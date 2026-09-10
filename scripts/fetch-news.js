@@ -771,7 +771,7 @@ async function fetchAllRss() {
       log(`RSS 폴링: ${source.name}`);
       const feed = await rssParser.parseURL(source.url);
       const items = feed.items
-        .slice(0, CONFIG.limits.maxArticlesPerSource)
+        .slice(0, source.maxArticles ?? CONFIG.limits.maxArticlesPerSource)
         .map((it) => ({
           source: source.name,
           region: source.region,
@@ -1260,8 +1260,40 @@ async function classifyOne(item, retry = false, hint = "", preText = null) {
   return parsed;
 }
 
+// Take one candidate per feed per round, rotating the first feed between runs.
+// A late-configured feed must not starve behind the global API budget.
+function selectClassificationBatch(items, cache, limit = CONFIG.limits.maxArticlesPerRun) {
+  const queues = new Map();
+  for (const item of items) {
+    if (!queues.has(item.source)) queues.set(item.source, []);
+    queues.get(item.source).push(item);
+  }
+  const sources = [...queues.keys()];
+  if (!sources.length || limit <= 0) return [];
+  let cursor = sources.indexOf(cache.nextClassificationSource);
+  if (cursor < 0) cursor = 0;
+  const selected = [];
+  let empty = 0;
+  while (selected.length < limit && empty < sources.length) {
+    const queue = queues.get(sources[cursor]);
+    if (queue.length) {
+      selected.push(queue.shift());
+      empty = 0;
+    } else {
+      empty++;
+    }
+    cursor = (cursor + 1) % sources.length;
+  }
+  cache.nextClassificationSource = sources[cursor];
+  return selected;
+}
+
 async function classifyAll(items, startId, processingCache, preTexts = null) {
-  const toProcess = items.slice(0, CONFIG.limits.maxArticlesPerRun);
+  const toProcess = selectClassificationBatch(items, processingCache);
+  const counts = {};
+  for (const item of toProcess) counts[item.source] = (counts[item.source] || 0) + 1;
+  log(`분류 배정: 후보 ${items.length}건, 처리 ${toProcess.length}건, 보류 ${items.length - toProcess.length}건`);
+  for (const [source, count] of Object.entries(counts)) log(`  ${source}: ${count}건`);
   const classified = [];
   let nextId = startId;
   let skipCount = 0;
@@ -1508,6 +1540,7 @@ async function main() {
   const existing = await loadExisting();
   const processingCache = await loadProcessingCache();
   const processingCacheBefore = JSON.stringify(processingCache.entries || {});
+  const classificationSourceBefore = processingCache.nextClassificationSource;
   pruneProcessingCache(processingCache);
   log(`기존 뉴스 ${existing.items.length}건 로드`);
 
@@ -1603,7 +1636,8 @@ async function main() {
 
   pruneProcessingCache(processingCache);
   const processingCacheChanged =
-    processingCacheBefore !== JSON.stringify(processingCache.entries || {});
+    processingCacheBefore !== JSON.stringify(processingCache.entries || {}) ||
+    classificationSourceBefore !== processingCache.nextClassificationSource;
   if (processingCacheChanged) {
     await writeFile(
       PROCESSING_CACHE_PATH,
@@ -1674,6 +1708,7 @@ export {
   strongPrefilterReason,
   cachedDecision,
   setCacheEntry,
+  selectClassificationBatch,
 };
 
 // 직접 실행(node fetch-news.js)일 때만 전체 파이프라인 구동. import 時엔 실행 안 함.

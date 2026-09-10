@@ -768,6 +768,49 @@
       "imageChecked": true
     },
     {
+      "id": 6420,
+      "lens": "소비자",
+      "grade": "참고",
+      "impact": 2.3,
+      "factors": {
+        "salesRelevance": 2,
+        "timeUrgency": 2,
+        "marketSize": 2,
+        "sourceReliability": 4
+      },
+      "products": [],
+      "competitors": [],
+      "tags": [
+        "가구·인테리어",
+        "오늘의집",
+        "오프라인매장",
+        "플랫폼"
+      ],
+      "headline": "분당 홈플러스 떠난 자리에 '오늘의집' 생긴다",
+      "summary": "오늘의집이 옛 홈플러스 분당오리점에 약 4300평 규모의 대형 상설매장을 추진하며 임대차 조건을 협의 중이다.",
+      "summaryPoints": [
+        {
+          "type": "content",
+          "text": "버킷플레이스는 옛 홈플러스 분당오리점 임차를 막바지 협의 중이며, 약 4300평 규모로 2027년 개점을 계획한다."
+        },
+        {
+          "type": "content",
+          "text": "가구·생활용품 쇼룸에 식음료, 팝업, 클래스, 인테리어 상담 등을 결합하는 복합공간을 검토한다."
+        },
+        {
+          "type": "content",
+          "text": "40~50명 규모의 오프라인 TF를 운영하며, 2026년 중 전담 법인 설립을 계획한다."
+        }
+      ],
+      "source": {
+        "name": "한국경제",
+        "url": "https://www.hankyung.com/article/2026090947011"
+      },
+      "publishedAt": "2026-09-09T11:00:00.000Z",
+      "url": "https://www.hankyung.com/article/2026090947011",
+      "ingestionMethod": "manual-backfill"
+    },
+    {
       "id": 6333,
       "lens": "소비자",
       "grade": "주요",
