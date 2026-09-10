@@ -858,6 +858,19 @@ const COMPETITOR_LIST = CONFIG.competitors
   })
   .join("\n");
 
+// ===== 인접 업계 센싱 범위 확장 (config.json scopeExtensions → 분류 프롬프트 주입) =====
+// 가구·인테리어 등 7대 제품군 밖 인접 업계를 skip 하지 않도록, 업계별 규칙을 config 에서 읽어
+// CLASSIFY_SYSTEM 에 주입한다. 새 업계 추가는 config.json 만 편집(코드 수정 불필요).
+const SCOPE_EXTENSIONS = (CONFIG.scopeExtensions?.items || [])
+  .filter((x) => x && x.label && Array.isArray(x.rules) && x.rules.length)
+  .map(
+    (x) =>
+      `【${x.label} — 인접 업계 센싱 대상 (skip 금지)】\n` +
+      x.rules.map((r) => `- ${r}`).join("\n") +
+      "\n\n"
+  )
+  .join("");
+
 // ===== 경쟁사 결정적 백스톱 (LLM 거명 누락 보정) =====
 // 프롬프트 규칙(PR #58: lens·competitors 독립 판단)만으로는 경량 모델이 확률적으로
 // 거명된 회사를 competitors 에서 누락하는 사례가 재발 → 코드가 원문 문자열 매칭으로 강제 병합.
@@ -991,7 +1004,7 @@ const CLASSIFY_SYSTEM = `당신은 가전 산업(DA, Digital Appliances) 시장 
 - 해당 時 tags 에 "신사업" 을 반드시 포함하고, 모델 유형 태그를 함께 부여 (예: 구독, M&A, 플랫폼, 로보틱스, B2B, 주거·공간)
 - 사업구조 변화는 일회성 신제품보다 파급이 크므로 salesRelevance·marketSize 를 한 단계 상향 검토 (시장 규모·성장률 수치가 본문에 있으면 marketSize 근거로 활용)
 
-【정상 분류】
+${SCOPE_EXTENSIONS}【정상 분류】
 ★★ lens 와 competitors 는 서로 독립된 필드다 ★★
 - lens 는 기사의 ‘주된 앵글(관점)’ 1개를 고르는 필드다.
 - competitors 는 본문·헤드라인에 ‘실제로 거명된 회사’를 추출하는 필드다.
