@@ -1,7 +1,111 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-10T18:54:11.524Z",
+  "updatedAt": "2026-09-10T22:10:44.717Z",
   "entries": {
+    "dac714424480": {
+      "headline": "Putting “Temperature Perception” in the Kitchen: How Infrared Thermometry Modules Are Transforming Smart Home Appliances - FinancialContent",
+      "contentHash": "5b52015a5ecae055",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T22:09:44.335Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "da923e508650": {
+      "headline": "Best Buy's Labor Day appliance sale is still live — 45% off plus free shipping on Samsung, LG, Whirlpool, and GE - TechRadar",
+      "contentHash": "e230c5106cb424ad",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T22:09:43.193Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "4d28728e3a54": {
+      "headline": "[Who Is ?] 류재철 LG전자 대표이사 사장 - 비즈니스포스트",
+      "contentHash": "b80651989dff4660",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T22:09:39.099Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "0b0ae3ea8418": {
+      "headline": "네이버-LG, 18일 보안 특화 AI 개발 착수…“세계 1위 도전”",
+      "contentHash": "b8e641aa85751dba",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T22:09:28.925Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "a46f5820f21c": {
+      "headline": "드론 타고 하늘 나는 앵무새…무슨 사연?",
+      "contentHash": "de5629b89f6c1659",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T22:09:27.793Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "fece8b6a3506": {
+      "headline": "“매년 880만원 아끼는데 안해요?” … 파이어족 다들 한다는데",
+      "contentHash": "078a8eb77b9b3182",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T22:09:26.699Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "f17ecbc4d0a6": {
+      "headline": "유가·국채금리 급등에 무너진 투심...美 3대증시 하락 [월가월부]",
+      "contentHash": "96078992dada5b82",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T22:09:25.569Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "6919ccd9a252": {
+      "headline": "“가만히 있었는데 14% 녹았습니다”…환차손 얻어맞은 서학개미",
+      "contentHash": "8eb47cfdda3ffc13",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T22:09:24.392Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "511d92b72c10": {
+      "headline": "“얇은 겉옷 챙기세요”…오늘 일교차 최대 15도 ‘롤러코스터 날씨’",
+      "contentHash": "5f405b8f19d7ca71",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T22:09:23.144Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2242442fcea3": {
+      "headline": "김승원과 사진 찍은 판사, 1년 뒤 제넨셀 영장 기각…아들은 김 의원실 근무",
+      "contentHash": "d038397f3a210e2c",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T22:09:21.954Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "148c868a1069": {
+      "headline": "국경을 넘는 상속설계 시대 [바른 상속·기업승계 리포트]",
+      "contentHash": "09e3f107698413e6",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T22:09:20.757Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "d55c7d5e1192": {
+      "headline": "매경이 전하는 세상의 지식 (매-세-지, 9월 11일)",
+      "contentHash": "8f3a99c881e24102",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T22:09:19.757Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "32c622138b1b": {
+      "headline": "Energy, infrastructure investors in Mexico need treaty protection as USMCA doubts grow - BNamericas",
+      "contentHash": "7dd338067f17d40a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-10T22:08:56.025Z",
+      "status": "prefilter",
+      "reason": "BTS|그래미|아이돌|연예인|concert|celebrity"
+    },
     "10efe97da086": {
       "headline": "How Johnson Controls Helps Data Centers Reuse Energy - National Association of Manufacturers - NAM",
       "contentHash": "07d5df65e7bbd0e7",
@@ -73,14 +177,6 @@
       "processedAt": "2026-09-10T18:52:48.131Z",
       "status": "skip",
       "reason": "model_skip"
-    },
-    "32c622138b1b": {
-      "headline": "Energy, infrastructure investors in Mexico need treaty protection as USMCA doubts grow - bnamericas.com",
-      "contentHash": "2d264ab57e76038c",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-10T18:52:14.386Z",
-      "status": "prefilter",
-      "reason": "BTS|그래미|아이돌|연예인|concert|celebrity"
     },
     "f3d1df0f48a4": {
       "headline": "World’s Most Trustworthy Companies 2026 - Newsweek Rankings",
@@ -2175,14 +2271,6 @@
       "contentHash": "748666fa9373bc1e",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-06T21:54:15.869Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "77d089afe937": {
-      "headline": "KUKA Earns Cybersecurity Certification for Robot Control Platform - Assembly Magazine",
-      "contentHash": "d0731e26d1586474",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-06T21:54:14.758Z",
       "status": "skip",
       "reason": "model_skip"
     },
