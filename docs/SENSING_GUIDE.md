@@ -1,6 +1,6 @@
 # MI 센싱 가이드 (기사 스크리닝·분류 기준)
 
-> **버전**: v1.5 (2026-09-11)
+> **버전**: v1.6 (2026-09-11)
 > **리포**: `SimpleorNothing/market-insight` · **서비스**: https://mi.samsungda.net
 > **성격**: "무엇을 · 어떻게 센싱하는가"의 **단일 기준 문서**. 실제 설정값은 `scripts/config.json`, 분류·스킵 로직은 `scripts/fetch-news.js`의 `CLASSIFY_SYSTEM` 프롬프트, 사이트 하단(푸터) "기사 스크리닝 기준" 팝업은 `assets/js/screening-info.js`가 `config.json`을 실시간 렌더한다. **이 셋이 서로 어긋나지 않게 유지**한다.
 > **운영 작업 절차**(브랜치·PR·검증)는 `docs/WORK_GUIDE.md` 참고.
@@ -32,7 +32,9 @@
 
 ## 2. 3단 파이프라인 (수집 → 필터 → 분류)
 
-1. **RSS 수집** — `config.json`의 `rssSources` 피드(v1.5 기준 30개)에서 수집, 원문 링크 생존(dead-link) 확인.
+1. **RSS 수집** — 가구·인테리어 두 피드는 반환된 RSS 항목을 최대 100건까지 탐색한다(`rssSources[].maxArticles`). 나머지 피드는 기본 8건을 유지한다. 7일 검색창은 검색 범위이며 특정 기사 수집을 보장하지 않는다.
+   **분류 배정** — 필터·중복·링크 확인 후 피드별 한 건씩 순환 배정하고 회당 AI 30건 상한을 유지한다. 시작 피드를 처리 캐시에 저장해 다음 실행에서 이어 간다. 초과 후보는 skip으로 기록하지 않으며 다음 실행의 RSS에 남아 있으면 재검토한다. 후보/처리/보류 수와 피드별 처리 수를 로그에 남긴다.
+   **피드 설정** — `config.json`의 `rssSources` 피드(v1.5 기준 30개)에서 수집, 원문 링크 생존(dead-link) 확인.
 2. **키워드 필터 (코드 · 결정론적, 제목 기준)** — 제목에 `blockKeywords`가 있으면 AI 분류 전 제외. 단 `allowOverrideKeywords`가 함께 있으면 차단하지 않고 통과.
 3. **AI 분류 (Gemini 3.5 Flash-Lite)** — **본문**을 읽고 생활가전(DA) 사업과 무관하면 최종 제외. 통과 기사는 lens · grade · competitors · products · summaryPoints(원문 사실 정리 2~3점) · insight를 부여받는다.
 

@@ -68,7 +68,7 @@ Google News RSS 등 18개 피드 (scripts/config.json rssSources)
 
 ## 5. 자주 하는 작업 레시피
 
-- **RSS 피드 추가**: `config.json` `rssSources`에 항목 삽입. 쿼리는 `urllib.parse.quote`로 인코딩, `when:1d~14d` 윈도우 지정. 노이즈 방어는 3중 구조(blockKeywords → Gemini skip → maxArticlesPerSource=8)에 맡기고, 모호 단어는 구문으로 한정(예: WARN → "WARN notice"). 소급 수집은 불가(피드 윈도우 밖 과거 기사는 못 잡음).
+- **RSS 피드 추가**: `config.json` `rssSources`에 항목 삽입. 쿼리는 `urllib.parse.quote`로 인코딩, `when:1d~14d` 윈도우 지정. 노이즈 방어는 3중 구조(blockKeywords → Gemini skip → 기본 maxArticlesPerSource=8, 가구·인테리어 피드별 maxArticles=100)에 맡기고, 모호 단어는 구문으로 한정(예: WARN → "WARN notice"). 소급 수집은 불가(피드 윈도우 밖 과거 기사는 못 잡음).
 - **차단 키워드 추가**: `filterRules.blockKeywords`. 헤드라인 매칭 시 분류 전 차단 + 기존 적재분도 매 실행 시 소급 제거. 통상·관세류는 `allowOverrideKeywords`가 우선.
 - **분류 규칙 변경**: `fetch-news.js`의 CLASSIFY_SYSTEM 프롬프트 수정. 원칙 — competitors는 본문에 실제 거명된 회사만(포괄 표현 금지), lens와 competitors는 독립 판단.
 - **기사 수동 삭제/정정**: `news.json` 직접 편집 PR. 기존 데이터 일괄 정정은 backfill 스크립트 작성(추가만, 삭제 금지 원칙).
@@ -89,6 +89,8 @@ Google News RSS 등 18개 피드 (scripts/config.json rssSources)
 > 전 PR squash 머지(#68 제외). 새 변경 머지 시 맨 위에 추가할 것.
 
 ### 2026-09
+
+- 09-11: 08:34 갱신에서 후보 132건 중 앞 30건만 분류하여 가구 피드가 처리되지 않은 문제 수정. 피드 순환 배정·다음 시작 피드 저장·배정 로그 추가. 가구 피드 탐색 상한 100건. 한국경제 오늘의집 기사 원문 확인 후 수동 보완(자동 수집 성공으로 간주하지 않음).
 | PR | 일자 | 내용 |
 |---|---|---|
 | #132 | 09-11 | feat: 가구·인테리어 업계 센싱 추가 (피드·scopeExtensions·토픽 그룹) |
