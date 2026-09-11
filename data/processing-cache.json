@@ -1,7 +1,135 @@
 {
   "schemaVersion": "v1",
-  "updatedAt": "2026-09-10T23:34:21.887Z",
+  "updatedAt": "2026-09-11T02:20:59.175Z",
   "entries": {
+    "63385564166e": {
+      "headline": "SK바이오팜 “뇌전증 신약 '오파칼림' 임상 보류 10~11월 해소 기대”…종특이적 소견",
+      "contentHash": "eca5e32d49506d6d",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:20:24.893Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "97c7c43faaa4": {
+      "headline": "전장 사상자 95%가 드론 때문… “韓, 무기 제조 넘어 ‘드론 공급망’ 구축해야”[제27회 세계지식포럼]",
+      "contentHash": "57b4a93915adc064",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:20:23.734Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "c5a2b884cbed": {
+      "headline": "“누적 수주 14.3조” 포스코이앤씨, 리모델링 시장 1위 - v.daum.net",
+      "contentHash": "9da12bcd007be8b8",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:20:22.422Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "ff5eaad07057": {
+      "headline": "Kasa’s Matter Smart Plug 4-Pack With Energy Monitoring Falls to $37.99 - SammyGuru",
+      "contentHash": "b7defbfb18c767e6",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:20:12.484Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "fbd041afbd44": {
+      "headline": "Labor Day appliance deals 2026: Samsung, LG, GE, and more - mashable.com",
+      "contentHash": "6078d9358676f43f",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:20:11.212Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "be19cd3cba2b": {
+      "headline": "The State of the USMCA: What’s Next? - Baker Institute",
+      "contentHash": "4a673c63e58704ff",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:20:08.542Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "8b6df0fb8881": {
+      "headline": "PowerWash Simulator Execs Absurdly Tried To Soften The Blow Of Layoffs By Referring To Let-Go Workers As 'The Leavers' - Kotaku",
+      "contentHash": "3eebccdd8a8325a7",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:20:07.297Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "c4792fdbf3a4": {
+      "headline": "현대차 '보스턴'이 LG전자 베어로보틱스의 나스닥行 쳐다보는 이유 - 인베스트조선",
+      "contentHash": "8b0b95be09f5af44",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:20:02.523Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "2761771dce53": {
+      "headline": "투자 압박하면서 전력은 '포화' … 삼전·SK하닉 발목 잡은 '韓美 전력망' - 뉴데일리",
+      "contentHash": "a33324b7e3030038",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:20:01.343Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "f33196095265": {
+      "headline": "The Mom Who Gets Stuff Done: Gwen's Path to Sales Leadership - Trane Technologies",
+      "contentHash": "bf329fadf7c2a0f5",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:19:55.405Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "e082f78c3f6e": {
+      "headline": "Manchester-by-the-Sea Estate on 13 Acres With Sweeping Views of Kettle Cove and Crow Island Hits the Market for $6.9 Million - Northshore Magazine",
+      "contentHash": "383916e3dccc14b3",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:19:54.234Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "7f40ce48d281": {
+      "headline": "Whirlpool Builds Diversified Carbon Removal Portfolio - ESG News",
+      "contentHash": "e4a4916a48bf3084",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:19:48.258Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "70159085a84a": {
+      "headline": "삼성전자 - 매일경제 마켓",
+      "contentHash": "435c24796631f74b",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:19:47.057Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "42a63ec7b7d5": {
+      "headline": "한국인들, 日 몰려가는데…“도난 당했다” 긴급여권 발급 급증, 日서 무슨 일이",
+      "contentHash": "f0fd1ef9193cb73a",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:19:44.395Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "07e9812f6d86": {
+      "headline": "만남까지 다이어트하다…20대의 사는 법 관계긴축",
+      "contentHash": "ad8ea920bafb33b6",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:19:42.981Z",
+      "status": "skip",
+      "reason": "model_skip"
+    },
+    "147cd310f86a": {
+      "headline": "폭행·가슴 상처 호소에도 ‘학폭 아님’…경찰은 잇단 송치",
+      "contentHash": "9734a7e9393560aa",
+      "classifierVersion": "mi-v1.4-cost-guard",
+      "processedAt": "2026-09-11T02:18:46.388Z",
+      "status": "prefilter",
+      "reason": "징역|구속|살인|폭행|절도|성폭행|crime|sentenced to prison"
+    },
     "fe05b2ce4685": {
       "headline": "4 Bosch Power Tools With Deep Discounts In September 2026 - SlashGear",
       "contentHash": "483346f812c1bf4a",
@@ -15,14 +143,6 @@
       "contentHash": "0280f59ea5b7443f",
       "classifierVersion": "mi-v1.4-cost-guard",
       "processedAt": "2026-09-10T23:33:43.152Z",
-      "status": "skip",
-      "reason": "model_skip"
-    },
-    "e082f78c3f6e": {
-      "headline": "Manchester-by-the-Sea Estate on 13 Acres With Sweeping Views of Kettle Cove and Crow Island Hits the Market for $6.9 Million - nshoremag.com",
-      "contentHash": "fca9bb88a41a539f",
-      "classifierVersion": "mi-v1.4-cost-guard",
-      "processedAt": "2026-09-10T23:33:41.931Z",
       "status": "skip",
       "reason": "model_skip"
     },
@@ -15444,5 +15564,6 @@
       "status": "prefilter",
       "reason": "카지노|무료 스핀|casino|sportsbook"
     }
-  }
+  },
+  "nextClassificationSource": "Google News - 캐리어/오텍캐리어 KR"
 }
